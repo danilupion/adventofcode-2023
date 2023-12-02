@@ -11,10 +11,12 @@
         "lint:fix": "eslint -c .eslintrc.cjs 'src/**/*.js' --fix",
         "prepare": "husky install",
         "1-1": "node src/challenges/1/part1/solution.js",
-        "1-2": "node src/challenges/1/part2/solution.js"
+        "1-2": "node src/challenges/1/part2/solution.js",
+        "2-1": "node src/challenges/2/part1/solution.js",
+        "2-2": "node src/challenges/2/part2/solution.js"
     },
     "devDependencies": {
-        "eslint": "^8.54.0",
+        "eslint": "^8.55.0",
         "husky": "^8.0.3",
         "lint-staged": "^15.1.0",
         "prettier": "^3.1.0"
