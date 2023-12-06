@@ -17,12 +17,14 @@
         "3-1": "node src/challenges/3/part1/solution.js",
         "3-2": "node src/challenges/3/part2/solution.js",
         "4-1": "node src/challenges/4/part1/solution.js",
-        "4-2": "node src/challenges/4/part2/solution.js"
+        "4-2": "node src/challenges/4/part2/solution.js",
+        "5-1": "node src/challenges/5/part1/solution.js",
+        "5-2": "node src/challenges/5/part2/solution.js"
     },
     "devDependencies": {
         "eslint": "^8.55.0",
         "husky": "^8.0.3",
-        "lint-staged": "^15.1.0",
+        "lint-staged": "^15.2.0",
         "prettier": "^3.1.0"
     },
     "lint-staged": {
