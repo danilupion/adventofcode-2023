@@ -1,0 +1,7010 @@
+yarn run v1.22.21
+$ node src/challenges/7/part2/solution.js
+[
+  { card: 'A', score: 13, count: 4, type: 1000 },
+  { card: 'J', score: 1, count: 1, type: 0 }
+]
+[
+  {
+    "cards": "AAAJA",
+    "bid": 248,
+    "type": 10000,
+    "rank": 1000,
+    "winning": 248000
+  },
+  {
+    "cards": "AJAJA",
+    "bid": 605,
+    "type": 10000,
+    "rank": 999,
+    "winning": 604395
+  },
+  {
+    "cards": "KKKJK",
+    "bid": 79,
+    "type": 10000,
+    "rank": 998,
+    "winning": 78842
+  },
+  {
+    "cards": "KJJJK",
+    "bid": 458,
+    "type": 10000,
+    "rank": 997,
+    "winning": 456626
+  },
+  {
+    "cards": "QQQQJ",
+    "bid": 291,
+    "type": 10000,
+    "rank": 996,
+    "winning": 289836
+  },
+  {
+    "cards": "QJQQJ",
+    "bid": 281,
+    "type": 10000,
+    "rank": 995,
+    "winning": 279595
+  },
+  {
+    "cards": "9J999",
+    "bid": 619,
+    "type": 10000,
+    "rank": 994,
+    "winning": 615286
+  },
+  {
+    "cards": "9JJ99",
+    "bid": 921,
+    "type": 10000,
+    "rank": 993,
+    "winning": 914553
+  },
+  {
+    "cards": "88J88",
+    "bid": 120,
+    "type": 10000,
+    "rank": 992,
+    "winning": 119040
+  },
+  {
+    "cards": "777JJ",
+    "bid": 216,
+    "type": 10000,
+    "rank": 991,
+    "winning": 214056
+  },
+  {
+    "cards": "7J777",
+    "bid": 544,
+    "type": 10000,
+    "rank": 990,
+    "winning": 538560
+  },
+  {
+    "cards": "7JJJ7",
+    "bid": 257,
+    "type": 10000,
+    "rank": 989,
+    "winning": 254173
+  },
+  {
+    "cards": "666J6",
+    "bid": 745,
+    "type": 10000,
+    "rank": 988,
+    "winning": 736060
+  },
+  {
+    "cards": "6JJJ6",
+    "bid": 595,
+    "type": 10000,
+    "rank": 987,
+    "winning": 587265
+  },
+  {
+    "cards": "555J5",
+    "bid": 396,
+    "type": 10000,
+    "rank": 986,
+    "winning": 390456
+  },
+  {
+    "cards": "4J444",
+    "bid": 692,
+    "type": 10000,
+    "rank": 985,
+    "winning": 681620
+  },
+  {
+    "cards": "3J333",
+    "bid": 115,
+    "type": 10000,
+    "rank": 984,
+    "winning": 113160
+  },
+  {
+    "cards": "2J222",
+    "bid": 358,
+    "type": 10000,
+    "rank": 983,
+    "winning": 351914
+  },
+  {
+    "cards": "2J2J2",
+    "bid": 842,
+    "type": 10000,
+    "rank": 982,
+    "winning": 826844
+  },
+  {
+    "cards": "JTTTT",
+    "bid": 469,
+    "type": 10000,
+    "rank": 981,
+    "winning": 460089
+  },
+  {
+    "cards": "J8JJJ",
+    "bid": 494,
+    "type": 10000,
+    "rank": 980,
+    "winning": 484120
+  },
+  {
+    "cards": "J6J66",
+    "bid": 902,
+    "type": 10000,
+    "rank": 979,
+    "winning": 883058
+  },
+  {
+    "cards": "J5J55",
+    "bid": 851,
+    "type": 10000,
+    "rank": 978,
+    "winning": 832278
+  },
+  {
+    "cards": "J444J",
+    "bid": 880,
+    "type": 10000,
+    "rank": 977,
+    "winning": 859760
+  },
+  {
+    "cards": "J333J",
+    "bid": 778,
+    "type": 10000,
+    "rank": 976,
+    "winning": 759328
+  },
+  {
+    "cards": "JJKKK",
+    "bid": 53,
+    "type": 10000,
+    "rank": 975,
+    "winning": 51675
+  },
+  {
+    "cards": "JJTTT",
+    "bid": 367,
+    "type": 10000,
+    "rank": 974,
+    "winning": 357458
+  },
+  {
+    "cards": "JJ888",
+    "bid": 431,
+    "type": 10000,
+    "rank": 973,
+    "winning": 419363
+  },
+  {
+    "cards": "JJ8J8",
+    "bid": 305,
+    "type": 10000,
+    "rank": 972,
+    "winning": 296460
+  },
+  {
+    "cards": "JJJJQ",
+    "bid": 844,
+    "type": 10000,
+    "rank": 971,
+    "winning": 819524
+  },
+  {
+    "cards": "JJJJ6",
+    "bid": 371,
+    "type": 10000,
+    "rank": 970,
+    "winning": 359870
+  },
+  {
+    "cards": "JJJJJ",
+    "bid": 189,
+    "type": 10000,
+    "rank": 969,
+    "winning": 183141
+  },
+  {
+    "cards": "AAAA5",
+    "bid": 451,
+    "type": 1001,
+    "rank": 968,
+    "winning": 436568
+  },
+  {
+    "cards": "AAAA3",
+    "bid": 242,
+    "type": 1001,
+    "rank": 967,
+    "winning": 234014
+  },
+  {
+    "cards": "AAAQA",
+    "bid": 620,
+    "type": 1001,
+    "rank": 966,
+    "winning": 598920
+  },
+  {
+    "cards": "AAA8A",
+    "bid": 468,
+    "type": 1001,
+    "rank": 965,
+    "winning": 451620
+  },
+  {
+    "cards": "AKAAA",
+    "bid": 251,
+    "type": 1001,
+    "rank": 964,
+    "winning": 241964
+  },
+  {
+    "cards": "A7AAA",
+    "bid": 80,
+    "type": 1001,
+    "rank": 963,
+    "winning": 77040
+  },
+  {
+    "cards": "A77J7",
+    "bid": 182,
+    "type": 1001,
+    "rank": 962,
+    "winning": 175084
+  },
+  {
+    "cards": "A6AAJ",
+    "bid": 878,
+    "type": 1001,
+    "rank": 961,
+    "winning": 843758
+  },
+  {
+    "cards": "A5AAJ",
+    "bid": 600,
+    "type": 1001,
+    "rank": 960,
+    "winning": 576000
+  },
+  {
+    "cards": "A5555",
+    "bid": 400,
+    "type": 1001,
+    "rank": 959,
+    "winning": 383600
+  },
+  {
+    "cards": "A4AAA",
+    "bid": 301,
+    "type": 1001,
+    "rank": 958,
+    "winning": 288358
+  },
+  {
+    "cards": "AJAA4",
+    "bid": 557,
+    "type": 1001,
+    "rank": 957,
+    "winning": 533049
+  },
+  {
+    "cards": "AJAJ3",
+    "bid": 882,
+    "type": 1001,
+    "rank": 956,
+    "winning": 843192
+  },
+  {
+    "cards": "KKKKA",
+    "bid": 343,
+    "type": 1001,
+    "rank": 955,
+    "winning": 327565
+  },
+  {
+    "cards": "KKKK8",
+    "bid": 964,
+    "type": 1001,
+    "rank": 954,
+    "winning": 919656
+  },
+  {
+    "cards": "KKKK3",
+    "bid": 509,
+    "type": 1001,
+    "rank": 953,
+    "winning": 485077
+  },
+  {
+    "cards": "KKKTK",
+    "bid": 202,
+    "type": 1001,
+    "rank": 952,
+    "winning": 192304
+  },
+  {
+    "cards": "KKKJ2",
+    "bid": 180,
+    "type": 1001,
+    "rank": 951,
+    "winning": 171180
+  },
+  {
+    "cards": "KK5KK",
+    "bid": 669,
+    "type": 1001,
+    "rank": 950,
+    "winning": 635550
+  },
+  {
+    "cards": "KKJJA",
+    "bid": 49,
+    "type": 1001,
+    "rank": 949,
+    "winning": 46501
+  },
+  {
+    "cards": "K5KJK",
+    "bid": 693,
+    "type": 1001,
+    "rank": 948,
+    "winning": 656964
+  },
+  {
+    "cards": "K5555",
+    "bid": 329,
+    "type": 1001,
+    "rank": 947,
+    "winning": 311563
+  },
+  {
+    "cards": "K4444",
+    "bid": 99,
+    "type": 1001,
+    "rank": 946,
+    "winning": 93654
+  },
+  {
+    "cards": "K22J2",
+    "bid": 1,
+    "type": 1001,
+    "rank": 945,
+    "winning": 945
+  },
+  {
+    "cards": "QKKKK",
+    "bid": 527,
+    "type": 1001,
+    "rank": 944,
+    "winning": 497488
+  },
+  {
+    "cards": "QQQQA",
+    "bid": 466,
+    "type": 1001,
+    "rank": 943,
+    "winning": 439438
+  },
+  {
+    "cards": "QQQQK",
+    "bid": 625,
+    "type": 1001,
+    "rank": 942,
+    "winning": 588750
+  },
+  {
+    "cards": "QQQQ6",
+    "bid": 961,
+    "type": 1001,
+    "rank": 941,
+    "winning": 904301
+  },
+  {
+    "cards": "QQQTQ",
+    "bid": 853,
+    "type": 1001,
+    "rank": 940,
+    "winning": 801820
+  },
+  {
+    "cards": "QQ7QQ",
+    "bid": 73,
+    "type": 1001,
+    "rank": 939,
+    "winning": 68547
+  },
+  {
+    "cards": "TQTTT",
+    "bid": 316,
+    "type": 1001,
+    "rank": 938,
+    "winning": 296408
+  },
+  {
+    "cards": "TTATT",
+    "bid": 825,
+    "type": 1001,
+    "rank": 937,
+    "winning": 773025
+  },
+  {
+    "cards": "TTTT9",
+    "bid": 942,
+    "type": 1001,
+    "rank": 936,
+    "winning": 881712
+  },
+  {
+    "cards": "TT5TT",
+    "bid": 612,
+    "type": 1001,
+    "rank": 935,
+    "winning": 572220
+  },
+  {
+    "cards": "TT3TT",
+    "bid": 243,
+    "type": 1001,
+    "rank": 934,
+    "winning": 226962
+  },
+  {
+    "cards": "TTJKT",
+    "bid": 531,
+    "type": 1001,
+    "rank": 933,
+    "winning": 495423
+  },
+  {
+    "cards": "TTJT2",
+    "bid": 737,
+    "type": 1001,
+    "rank": 932,
+    "winning": 686884
+  },
+  {
+    "cards": "TTJ7J",
+    "bid": 932,
+    "type": 1001,
+    "rank": 931,
+    "winning": 867692
+  },
+  {
+    "cards": "T7777",
+    "bid": 123,
+    "type": 1001,
+    "rank": 930,
+    "winning": 114390
+  },
+  {
+    "cards": "T2222",
+    "bid": 756,
+    "type": 1001,
+    "rank": 929,
+    "winning": 702324
+  },
+  {
+    "cards": "TJT5T",
+    "bid": 438,
+    "type": 1001,
+    "rank": 928,
+    "winning": 406464
+  },
+  {
+    "cards": "9AAAA",
+    "bid": 751,
+    "type": 1001,
+    "rank": 927,
+    "winning": 696177
+  },
+  {
+    "cards": "9K999",
+    "bid": 64,
+    "type": 1001,
+    "rank": 926,
+    "winning": 59264
+  },
+  {
+    "cards": "99A99",
+    "bid": 474,
+    "type": 1001,
+    "rank": 925,
+    "winning": 438450
+  },
+  {
+    "cards": "999KJ",
+    "bid": 317,
+    "type": 1001,
+    "rank": 924,
+    "winning": 292908
+  },
+  {
+    "cards": "999T9",
+    "bid": 573,
+    "type": 1001,
+    "rank": 923,
+    "winning": 528879
+  },
+  {
+    "cards": "99998",
+    "bid": 283,
+    "type": 1001,
+    "rank": 922,
+    "winning": 260926
+  },
+  {
+    "cards": "999J6",
+    "bid": 868,
+    "type": 1001,
+    "rank": 921,
+    "winning": 799428
+  },
+  {
+    "cards": "99599",
+    "bid": 184,
+    "type": 1001,
+    "rank": 920,
+    "winning": 169280
+  },
+  {
+    "cards": "99499",
+    "bid": 567,
+    "type": 1001,
+    "rank": 919,
+    "winning": 521073
+  },
+  {
+    "cards": "99399",
+    "bid": 138,
+    "type": 1001,
+    "rank": 918,
+    "winning": 126684
+  },
+  {
+    "cards": "98888",
+    "bid": 889,
+    "type": 1001,
+    "rank": 917,
+    "winning": 815213
+  },
+  {
+    "cards": "97999",
+    "bid": 986,
+    "type": 1001,
+    "rank": 916,
+    "winning": 903176
+  },
+  {
+    "cards": "97777",
+    "bid": 706,
+    "type": 1001,
+    "rank": 915,
+    "winning": 645990
+  },
+  {
+    "cards": "96J66",
+    "bid": 670,
+    "type": 1001,
+    "rank": 914,
+    "winning": 612380
+  },
+  {
+    "cards": "9J22J",
+    "bid": 109,
+    "type": 1001,
+    "rank": 913,
+    "winning": 99517
+  },
+  {
+    "cards": "8AAJA",
+    "bid": 998,
+    "type": 1001,
+    "rank": 912,
+    "winning": 910176
+  },
+  {
+    "cards": "8QQQQ",
+    "bid": 39,
+    "type": 1001,
+    "rank": 911,
+    "winning": 35529
+  },
+  {
+    "cards": "8Q888",
+    "bid": 931,
+    "type": 1001,
+    "rank": 910,
+    "winning": 847210
+  },
+  {
+    "cards": "88T88",
+    "bid": 662,
+    "type": 1001,
+    "rank": 909,
+    "winning": 601758
+  },
+  {
+    "cards": "88887",
+    "bid": 309,
+    "type": 1001,
+    "rank": 908,
+    "winning": 280572
+  },
+  {
+    "cards": "88883",
+    "bid": 319,
+    "type": 1001,
+    "rank": 907,
+    "winning": 289333
+  },
+  {
+    "cards": "8883J",
+    "bid": 13,
+    "type": 1001,
+    "rank": 906,
+    "winning": 11778
+  },
+  {
+    "cards": "88828",
+    "bid": 352,
+    "type": 1001,
+    "rank": 905,
+    "winning": 318560
+  },
+  {
+    "cards": "888JQ",
+    "bid": 63,
+    "type": 1001,
+    "rank": 904,
+    "winning": 56952
+  },
+  {
+    "cards": "88488",
+    "bid": 990,
+    "type": 1001,
+    "rank": 903,
+    "winning": 893970
+  },
+  {
+    "cards": "8666J",
+    "bid": 519,
+    "type": 1001,
+    "rank": 902,
+    "winning": 468138
+  },
+  {
+    "cards": "8588J",
+    "bid": 719,
+    "type": 1001,
+    "rank": 901,
+    "winning": 647819
+  },
+  {
+    "cards": "8J222",
+    "bid": 492,
+    "type": 1001,
+    "rank": 900,
+    "winning": 442800
+  },
+  {
+    "cards": "7Q77J",
+    "bid": 417,
+    "type": 1001,
+    "rank": 899,
+    "winning": 374883
+  },
+  {
+    "cards": "787JJ",
+    "bid": 26,
+    "type": 1001,
+    "rank": 898,
+    "winning": 23348
+  },
+  {
+    "cards": "777K7",
+    "bid": 552,
+    "type": 1001,
+    "rank": 897,
+    "winning": 495144
+  },
+  {
+    "cards": "77477",
+    "bid": 929,
+    "type": 1001,
+    "rank": 896,
+    "winning": 832384
+  },
+  {
+    "cards": "76J77",
+    "bid": 876,
+    "type": 1001,
+    "rank": 895,
+    "winning": 784020
+  },
+  {
+    "cards": "75555",
+    "bid": 493,
+    "type": 1001,
+    "rank": 894,
+    "winning": 440742
+  },
+  {
+    "cards": "7J74J",
+    "bid": 913,
+    "type": 1001,
+    "rank": 893,
+    "winning": 815309
+  },
+  {
+    "cards": "7J577",
+    "bid": 462,
+    "type": 1001,
+    "rank": 892,
+    "winning": 412104
+  },
+  {
+    "cards": "6KKKK",
+    "bid": 402,
+    "type": 1001,
+    "rank": 891,
+    "winning": 358182
+  },
+  {
+    "cards": "6TTTT",
+    "bid": 979,
+    "type": 1001,
+    "rank": 890,
+    "winning": 871310
+  },
+  {
+    "cards": "67777",
+    "bid": 720,
+    "type": 1001,
+    "rank": 889,
+    "winning": 640080
+  },
+  {
+    "cards": "67666",
+    "bid": 753,
+    "type": 1001,
+    "rank": 888,
+    "winning": 668664
+  },
+  {
+    "cards": "666A6",
+    "bid": 504,
+    "type": 1001,
+    "rank": 887,
+    "winning": 447048
+  },
+  {
+    "cards": "666Q6",
+    "bid": 817,
+    "type": 1001,
+    "rank": 886,
+    "winning": 723862
+  },
+  {
+    "cards": "666T6",
+    "bid": 738,
+    "type": 1001,
+    "rank": 885,
+    "winning": 653130
+  },
+  {
+    "cards": "66662",
+    "bid": 511,
+    "type": 1001,
+    "rank": 884,
+    "winning": 451724
+  },
+  {
+    "cards": "666JK",
+    "bid": 456,
+    "type": 1001,
+    "rank": 883,
+    "winning": 402648
+  },
+  {
+    "cards": "666J4",
+    "bid": 71,
+    "type": 1001,
+    "rank": 882,
+    "winning": 62622
+  },
+  {
+    "cards": "66566",
+    "bid": 22,
+    "type": 1001,
+    "rank": 881,
+    "winning": 19382
+  },
+  {
+    "cards": "63333",
+    "bid": 674,
+    "type": 1001,
+    "rank": 880,
+    "winning": 593120
+  },
+  {
+    "cards": "62222",
+    "bid": 699,
+    "type": 1001,
+    "rank": 879,
+    "winning": 614421
+  },
+  {
+    "cards": "5Q55J",
+    "bid": 575,
+    "type": 1001,
+    "rank": 878,
+    "winning": 504850
+  },
+  {
+    "cards": "5855J",
+    "bid": 660,
+    "type": 1001,
+    "rank": 877,
+    "winning": 578820
+  },
+  {
+    "cards": "55Q55",
+    "bid": 508,
+    "type": 1001,
+    "rank": 876,
+    "winning": 445008
+  },
+  {
+    "cards": "555T5",
+    "bid": 66,
+    "type": 1001,
+    "rank": 875,
+    "winning": 57750
+  },
+  {
+    "cards": "55525",
+    "bid": 796,
+    "type": 1001,
+    "rank": 874,
+    "winning": 695704
+  },
+  {
+    "cards": "555J3",
+    "bid": 190,
+    "type": 1001,
+    "rank": 873,
+    "winning": 165870
+  },
+  {
+    "cards": "55455",
+    "bid": 838,
+    "type": 1001,
+    "rank": 872,
+    "winning": 730736
+  },
+  {
+    "cards": "55J56",
+    "bid": 266,
+    "type": 1001,
+    "rank": 871,
+    "winning": 231686
+  },
+  {
+    "cards": "53J33",
+    "bid": 599,
+    "type": 1001,
+    "rank": 870,
+    "winning": 521130
+  },
+  {
+    "cards": "52J22",
+    "bid": 545,
+    "type": 1001,
+    "rank": 869,
+    "winning": 473605
+  },
+  {
+    "cards": "5J666",
+    "bid": 204,
+    "type": 1001,
+    "rank": 868,
+    "winning": 177072
+  },
+  {
+    "cards": "5J5A5",
+    "bid": 290,
+    "type": 1001,
+    "rank": 867,
+    "winning": 251430
+  },
+  {
+    "cards": "5J545",
+    "bid": 616,
+    "type": 1001,
+    "rank": 866,
+    "winning": 533456
+  },
+  {
+    "cards": "4QQQQ",
+    "bid": 918,
+    "type": 1001,
+    "rank": 865,
+    "winning": 794070
+  },
+  {
+    "cards": "499J9",
+    "bid": 416,
+    "type": 1001,
+    "rank": 864,
+    "winning": 359424
+  },
+  {
+    "cards": "4888J",
+    "bid": 70,
+    "type": 1001,
+    "rank": 863,
+    "winning": 60410
+  },
+  {
+    "cards": "46666",
+    "bid": 850,
+    "type": 1001,
+    "rank": 862,
+    "winning": 732700
+  },
+  {
+    "cards": "44A44",
+    "bid": 235,
+    "type": 1001,
+    "rank": 861,
+    "winning": 202335
+  },
+  {
+    "cards": "44844",
+    "bid": 40,
+    "type": 1001,
+    "rank": 860,
+    "winning": 34400
+  },
+  {
+    "cards": "44644",
+    "bid": 814,
+    "type": 1001,
+    "rank": 859,
+    "winning": 699226
+  },
+  {
+    "cards": "444Q4",
+    "bid": 937,
+    "type": 1001,
+    "rank": 858,
+    "winning": 803946
+  },
+  {
+    "cards": "44494",
+    "bid": 915,
+    "type": 1001,
+    "rank": 857,
+    "winning": 784155
+  },
+  {
+    "cards": "44445",
+    "bid": 928,
+    "type": 1001,
+    "rank": 856,
+    "winning": 794368
+  },
+  {
+    "cards": "44434",
+    "bid": 27,
+    "type": 1001,
+    "rank": 855,
+    "winning": 23085
+  },
+  {
+    "cards": "4244J",
+    "bid": 624,
+    "type": 1001,
+    "rank": 854,
+    "winning": 532896
+  },
+  {
+    "cards": "42222",
+    "bid": 272,
+    "type": 1001,
+    "rank": 853,
+    "winning": 232016
+  },
+  {
+    "cards": "4J448",
+    "bid": 722,
+    "type": 1001,
+    "rank": 852,
+    "winning": 615144
+  },
+  {
+    "cards": "4JJ8J",
+    "bid": 801,
+    "type": 1001,
+    "rank": 851,
+    "winning": 681651
+  },
+  {
+    "cards": "3AJAA",
+    "bid": 725,
+    "type": 1001,
+    "rank": 850,
+    "winning": 616250
+  },
+  {
+    "cards": "3QQJQ",
+    "bid": 325,
+    "type": 1001,
+    "rank": 849,
+    "winning": 275925
+  },
+  {
+    "cards": "36666",
+    "bid": 331,
+    "type": 1001,
+    "rank": 848,
+    "winning": 280688
+  },
+  {
+    "cards": "33K33",
+    "bid": 750,
+    "type": 1001,
+    "rank": 847,
+    "winning": 635250
+  },
+  {
+    "cards": "33933",
+    "bid": 873,
+    "type": 1001,
+    "rank": 846,
+    "winning": 738558
+  },
+  {
+    "cards": "33533",
+    "bid": 797,
+    "type": 1001,
+    "rank": 845,
+    "winning": 673465
+  },
+  {
+    "cards": "33383",
+    "bid": 833,
+    "type": 1001,
+    "rank": 844,
+    "winning": 703052
+  },
+  {
+    "cards": "33373",
+    "bid": 215,
+    "type": 1001,
+    "rank": 843,
+    "winning": 181245
+  },
+  {
+    "cards": "33343",
+    "bid": 394,
+    "type": 1001,
+    "rank": 842,
+    "winning": 331748
+  },
+  {
+    "cards": "33J3Q",
+    "bid": 186,
+    "type": 1001,
+    "rank": 841,
+    "winning": 156426
+  },
+  {
+    "cards": "3JQQJ",
+    "bid": 947,
+    "type": 1001,
+    "rank": 840,
+    "winning": 795480
+  },
+  {
+    "cards": "3J6J6",
+    "bid": 925,
+    "type": 1001,
+    "rank": 839,
+    "winning": 776075
+  },
+  {
+    "cards": "2K222",
+    "bid": 151,
+    "type": 1001,
+    "rank": 838,
+    "winning": 126538
+  },
+  {
+    "cards": "2TTTT",
+    "bid": 135,
+    "type": 1001,
+    "rank": 837,
+    "winning": 112995
+  },
+  {
+    "cards": "2TJTJ",
+    "bid": 799,
+    "type": 1001,
+    "rank": 836,
+    "winning": 667964
+  },
+  {
+    "cards": "2333J",
+    "bid": 298,
+    "type": 1001,
+    "rank": 835,
+    "winning": 248830
+  },
+  {
+    "cards": "23222",
+    "bid": 808,
+    "type": 1001,
+    "rank": 834,
+    "winning": 673872
+  },
+  {
+    "cards": "22AJ2",
+    "bid": 847,
+    "type": 1001,
+    "rank": 833,
+    "winning": 705551
+  },
+  {
+    "cards": "22522",
+    "bid": 713,
+    "type": 1001,
+    "rank": 832,
+    "winning": 593216
+  },
+  {
+    "cards": "22229",
+    "bid": 20,
+    "type": 1001,
+    "rank": 831,
+    "winning": 16620
+  },
+  {
+    "cards": "22228",
+    "bid": 129,
+    "type": 1001,
+    "rank": 830,
+    "winning": 107070
+  },
+  {
+    "cards": "22227",
+    "bid": 381,
+    "type": 1001,
+    "rank": 829,
+    "winning": 315849
+  },
+  {
+    "cards": "222J9",
+    "bid": 959,
+    "type": 1001,
+    "rank": 828,
+    "winning": 794052
+  },
+  {
+    "cards": "JKJK8",
+    "bid": 286,
+    "type": 1001,
+    "rank": 827,
+    "winning": 236522
+  },
+  {
+    "cards": "JTATT",
+    "bid": 78,
+    "type": 1001,
+    "rank": 826,
+    "winning": 64428
+  },
+  {
+    "cards": "J8868",
+    "bid": 139,
+    "type": 1001,
+    "rank": 825,
+    "winning": 114675
+  },
+  {
+    "cards": "J8333",
+    "bid": 300,
+    "type": 1001,
+    "rank": 824,
+    "winning": 247200
+  },
+  {
+    "cards": "J7K77",
+    "bid": 306,
+    "type": 1001,
+    "rank": 823,
+    "winning": 251838
+  },
+  {
+    "cards": "J77JK",
+    "bid": 589,
+    "type": 1001,
+    "rank": 822,
+    "winning": 484158
+  },
+  {
+    "cards": "J6TJT",
+    "bid": 540,
+    "type": 1001,
+    "rank": 821,
+    "winning": 443340
+  },
+  {
+    "cards": "J69J6",
+    "bid": 782,
+    "type": 1001,
+    "rank": 820,
+    "winning": 641240
+  },
+  {
+    "cards": "J5J35",
+    "bid": 122,
+    "type": 1001,
+    "rank": 819,
+    "winning": 99918
+  },
+  {
+    "cards": "J333A",
+    "bid": 524,
+    "type": 1001,
+    "rank": 818,
+    "winning": 428632
+  },
+  {
+    "cards": "J2AAA",
+    "bid": 263,
+    "type": 1001,
+    "rank": 817,
+    "winning": 214871
+  },
+  {
+    "cards": "J2322",
+    "bid": 885,
+    "type": 1001,
+    "rank": 816,
+    "winning": 722160
+  },
+  {
+    "cards": "J2J28",
+    "bid": 663,
+    "type": 1001,
+    "rank": 815,
+    "winning": 540345
+  },
+  {
+    "cards": "JJ977",
+    "bid": 262,
+    "type": 1001,
+    "rank": 814,
+    "winning": 213268
+  },
+  {
+    "cards": "JJ443",
+    "bid": 177,
+    "type": 1001,
+    "rank": 813,
+    "winning": 143901
+  },
+  {
+    "cards": "JJ224",
+    "bid": 622,
+    "type": 1001,
+    "rank": 812,
+    "winning": 505064
+  },
+  {
+    "cards": "JJJA7",
+    "bid": 9,
+    "type": 1001,
+    "rank": 811,
+    "winning": 7299
+  },
+  {
+    "cards": "AAA22",
+    "bid": 884,
+    "type": 110,
+    "rank": 810,
+    "winning": 716040
+  },
+  {
+    "cards": "AATAT",
+    "bid": 231,
+    "type": 110,
+    "rank": 809,
+    "winning": 186879
+  },
+  {
+    "cards": "AA6A6",
+    "bid": 687,
+    "type": 110,
+    "rank": 808,
+    "winning": 555096
+  },
+  {
+    "cards": "AA444",
+    "bid": 721,
+    "type": 110,
+    "rank": 807,
+    "winning": 581847
+  },
+  {
+    "cards": "AA22J",
+    "bid": 749,
+    "type": 110,
+    "rank": 806,
+    "winning": 603694
+  },
+  {
+    "cards": "AKKJA",
+    "bid": 911,
+    "type": 110,
+    "rank": 805,
+    "winning": 733355
+  },
+  {
+    "cards": "A666A",
+    "bid": 280,
+    "type": 110,
+    "rank": 804,
+    "winning": 225120
+  },
+  {
+    "cards": "A33AA",
+    "bid": 128,
+    "type": 110,
+    "rank": 803,
+    "winning": 102784
+  },
+  {
+    "cards": "AJ8A8",
+    "bid": 89,
+    "type": 110,
+    "rank": 802,
+    "winning": 71378
+  },
+  {
+    "cards": "KAAKA",
+    "bid": 867,
+    "type": 110,
+    "rank": 801,
+    "winning": 694467
+  },
+  {
+    "cards": "KKK44",
+    "bid": 675,
+    "type": 110,
+    "rank": 800,
+    "winning": 540000
+  },
+  {
+    "cards": "KKQKQ",
+    "bid": 762,
+    "type": 110,
+    "rank": 799,
+    "winning": 608838
+  },
+  {
+    "cards": "KK7K7",
+    "bid": 789,
+    "type": 110,
+    "rank": 798,
+    "winning": 629622
+  },
+  {
+    "cards": "KK222",
+    "bid": 849,
+    "type": 110,
+    "rank": 797,
+    "winning": 676653
+  },
+  {
+    "cards": "KKJ55",
+    "bid": 763,
+    "type": 110,
+    "rank": 796,
+    "winning": 607348
+  },
+  {
+    "cards": "KQJQK",
+    "bid": 16,
+    "type": 110,
+    "rank": 795,
+    "winning": 12720
+  },
+  {
+    "cards": "K7K7J",
+    "bid": 611,
+    "type": 110,
+    "rank": 794,
+    "winning": 485134
+  },
+  {
+    "cards": "K5K5K",
+    "bid": 163,
+    "type": 110,
+    "rank": 793,
+    "winning": 129259
+  },
+  {
+    "cards": "K3KK3",
+    "bid": 176,
+    "type": 110,
+    "rank": 792,
+    "winning": 139392
+  },
+  {
+    "cards": "K3K33",
+    "bid": 513,
+    "type": 110,
+    "rank": 791,
+    "winning": 405783
+  },
+  {
+    "cards": "K2J2K",
+    "bid": 528,
+    "type": 110,
+    "rank": 790,
+    "winning": 417120
+  },
+  {
+    "cards": "QAJAQ",
+    "bid": 311,
+    "type": 110,
+    "rank": 789,
+    "winning": 245379
+  },
+  {
+    "cards": "QKKQQ",
+    "bid": 898,
+    "type": 110,
+    "rank": 788,
+    "winning": 707624
+  },
+  {
+    "cards": "QQQAA",
+    "bid": 351,
+    "type": 110,
+    "rank": 787,
+    "winning": 276237
+  },
+  {
+    "cards": "QQQTT",
+    "bid": 11,
+    "type": 110,
+    "rank": 786,
+    "winning": 8646
+  },
+  {
+    "cards": "QQQ77",
+    "bid": 23,
+    "type": 110,
+    "rank": 785,
+    "winning": 18055
+  },
+  {
+    "cards": "QQQ66",
+    "bid": 977,
+    "type": 110,
+    "rank": 784,
+    "winning": 765968
+  },
+  {
+    "cards": "QQ44Q",
+    "bid": 418,
+    "type": 110,
+    "rank": 783,
+    "winning": 327294
+  },
+  {
+    "cards": "QTTTQ",
+    "bid": 337,
+    "type": 110,
+    "rank": 782,
+    "winning": 263534
+  },
+  {
+    "cards": "Q7JQ7",
+    "bid": 802,
+    "type": 110,
+    "rank": 781,
+    "winning": 626362
+  },
+  {
+    "cards": "Q66QJ",
+    "bid": 356,
+    "type": 110,
+    "rank": 780,
+    "winning": 277680
+  },
+  {
+    "cards": "Q3Q3Q",
+    "bid": 293,
+    "type": 110,
+    "rank": 779,
+    "winning": 228247
+  },
+  {
+    "cards": "TKTKK",
+    "bid": 568,
+    "type": 110,
+    "rank": 778,
+    "winning": 441904
+  },
+  {
+    "cards": "TTATA",
+    "bid": 996,
+    "type": 110,
+    "rank": 777,
+    "winning": 773892
+  },
+  {
+    "cards": "TT7J7",
+    "bid": 415,
+    "type": 110,
+    "rank": 776,
+    "winning": 322040
+  },
+  {
+    "cards": "TT66T",
+    "bid": 804,
+    "type": 110,
+    "rank": 775,
+    "winning": 623100
+  },
+  {
+    "cards": "TT4T4",
+    "bid": 955,
+    "type": 110,
+    "rank": 774,
+    "winning": 739170
+  },
+  {
+    "cards": "TT333",
+    "bid": 218,
+    "type": 110,
+    "rank": 773,
+    "winning": 168514
+  },
+  {
+    "cards": "T99TT",
+    "bid": 916,
+    "type": 110,
+    "rank": 772,
+    "winning": 707152
+  },
+  {
+    "cards": "T999T",
+    "bid": 650,
+    "type": 110,
+    "rank": 771,
+    "winning": 501150
+  },
+  {
+    "cards": "T8T88",
+    "bid": 953,
+    "type": 110,
+    "rank": 770,
+    "winning": 733810
+  },
+  {
+    "cards": "T8T8J",
+    "bid": 25,
+    "type": 110,
+    "rank": 769,
+    "winning": 19225
+  },
+  {
+    "cards": "T88TT",
+    "bid": 740,
+    "type": 110,
+    "rank": 768,
+    "winning": 568320
+  },
+  {
+    "cards": "T33TT",
+    "bid": 490,
+    "type": 110,
+    "rank": 767,
+    "winning": 375830
+  },
+  {
+    "cards": "T2T2T",
+    "bid": 793,
+    "type": 110,
+    "rank": 766,
+    "winning": 607438
+  },
+  {
+    "cards": "9A9A9",
+    "bid": 677,
+    "type": 110,
+    "rank": 765,
+    "winning": 517905
+  },
+  {
+    "cards": "9KK9K",
+    "bid": 872,
+    "type": 110,
+    "rank": 764,
+    "winning": 666208
+  },
+  {
+    "cards": "98899",
+    "bid": 74,
+    "type": 110,
+    "rank": 763,
+    "winning": 56462
+  },
+  {
+    "cards": "988J9",
+    "bid": 989,
+    "type": 110,
+    "rank": 762,
+    "winning": 753618
+  },
+  {
+    "cards": "92992",
+    "bid": 667,
+    "type": 110,
+    "rank": 761,
+    "winning": 507587
+  },
+  {
+    "cards": "9J9KK",
+    "bid": 498,
+    "type": 110,
+    "rank": 760,
+    "winning": 378480
+  },
+  {
+    "cards": "8A8AA",
+    "bid": 761,
+    "type": 110,
+    "rank": 759,
+    "winning": 577599
+  },
+  {
+    "cards": "88KK8",
+    "bid": 724,
+    "type": 110,
+    "rank": 758,
+    "winning": 548792
+  },
+  {
+    "cards": "88899",
+    "bid": 323,
+    "type": 110,
+    "rank": 757,
+    "winning": 244511
+  },
+  {
+    "cards": "88585",
+    "bid": 615,
+    "type": 110,
+    "rank": 756,
+    "winning": 464940
+  },
+  {
+    "cards": "88555",
+    "bid": 888,
+    "type": 110,
+    "rank": 755,
+    "winning": 670440
+  },
+  {
+    "cards": "86866",
+    "bid": 586,
+    "type": 110,
+    "rank": 754,
+    "winning": 441844
+  },
+  {
+    "cards": "8JQQ8",
+    "bid": 895,
+    "type": 110,
+    "rank": 753,
+    "winning": 673935
+  },
+  {
+    "cards": "8J282",
+    "bid": 409,
+    "type": 110,
+    "rank": 752,
+    "winning": 307568
+  },
+  {
+    "cards": "7AA7A",
+    "bid": 104,
+    "type": 110,
+    "rank": 751,
+    "winning": 78104
+  },
+  {
+    "cards": "7Q7Q7",
+    "bid": 212,
+    "type": 110,
+    "rank": 750,
+    "winning": 159000
+  },
+  {
+    "cards": "79799",
+    "bid": 259,
+    "type": 110,
+    "rank": 749,
+    "winning": 193991
+  },
+  {
+    "cards": "78877",
+    "bid": 134,
+    "type": 110,
+    "rank": 748,
+    "winning": 100232
+  },
+  {
+    "cards": "77997",
+    "bid": 715,
+    "type": 110,
+    "rank": 747,
+    "winning": 534105
+  },
+  {
+    "cards": "77733",
+    "bid": 424,
+    "type": 110,
+    "rank": 746,
+    "winning": 316304
+  },
+  {
+    "cards": "77667",
+    "bid": 886,
+    "type": 110,
+    "rank": 745,
+    "winning": 660070
+  },
+  {
+    "cards": "77666",
+    "bid": 224,
+    "type": 110,
+    "rank": 744,
+    "winning": 166656
+  },
+  {
+    "cards": "77J22",
+    "bid": 874,
+    "type": 110,
+    "rank": 743,
+    "winning": 649382
+  },
+  {
+    "cards": "75557",
+    "bid": 249,
+    "type": 110,
+    "rank": 742,
+    "winning": 184758
+  },
+  {
+    "cards": "74477",
+    "bid": 865,
+    "type": 110,
+    "rank": 741,
+    "winning": 640965
+  },
+  {
+    "cards": "7373J",
+    "bid": 199,
+    "type": 110,
+    "rank": 740,
+    "winning": 147260
+  },
+  {
+    "cards": "68886",
+    "bid": 694,
+    "type": 110,
+    "rank": 739,
+    "winning": 512866
+  },
+  {
+    "cards": "66K6K",
+    "bid": 683,
+    "type": 110,
+    "rank": 738,
+    "winning": 504054
+  },
+  {
+    "cards": "66446",
+    "bid": 341,
+    "type": 110,
+    "rank": 737,
+    "winning": 251317
+  },
+  {
+    "cards": "66363",
+    "bid": 273,
+    "type": 110,
+    "rank": 736,
+    "winning": 200928
+  },
+  {
+    "cards": "66222",
+    "bid": 93,
+    "type": 110,
+    "rank": 735,
+    "winning": 68355
+  },
+  {
+    "cards": "65566",
+    "bid": 993,
+    "type": 110,
+    "rank": 734,
+    "winning": 728862
+  },
+  {
+    "cards": "5AA5A",
+    "bid": 489,
+    "type": 110,
+    "rank": 733,
+    "winning": 358437
+  },
+  {
+    "cards": "5T5T5",
+    "bid": 36,
+    "type": 110,
+    "rank": 732,
+    "winning": 26352
+  },
+  {
+    "cards": "59995",
+    "bid": 105,
+    "type": 110,
+    "rank": 731,
+    "winning": 76755
+  },
+  {
+    "cards": "57775",
+    "bid": 461,
+    "type": 110,
+    "rank": 730,
+    "winning": 336530
+  },
+  {
+    "cards": "56J56",
+    "bid": 636,
+    "type": 110,
+    "rank": 729,
+    "winning": 463644
+  },
+  {
+    "cards": "55599",
+    "bid": 114,
+    "type": 110,
+    "rank": 728,
+    "winning": 82992
+  },
+  {
+    "cards": "53533",
+    "bid": 843,
+    "type": 110,
+    "rank": 727,
+    "winning": 612861
+  },
+  {
+    "cards": "5J522",
+    "bid": 534,
+    "type": 110,
+    "rank": 726,
+    "winning": 387684
+  },
+  {
+    "cards": "4Q44Q",
+    "bid": 46,
+    "type": 110,
+    "rank": 725,
+    "winning": 33350
+  },
+  {
+    "cards": "4QJQ4",
+    "bid": 193,
+    "type": 110,
+    "rank": 724,
+    "winning": 139732
+  },
+  {
+    "cards": "48848",
+    "bid": 984,
+    "type": 110,
+    "rank": 723,
+    "winning": 711432
+  },
+  {
+    "cards": "4848J",
+    "bid": 320,
+    "type": 110,
+    "rank": 722,
+    "winning": 231040
+  },
+  {
+    "cards": "46644",
+    "bid": 347,
+    "type": 110,
+    "rank": 721,
+    "winning": 250187
+  },
+  {
+    "cards": "45454",
+    "bid": 339,
+    "type": 110,
+    "rank": 720,
+    "winning": 244080
+  },
+  {
+    "cards": "44K4K",
+    "bid": 234,
+    "type": 110,
+    "rank": 719,
+    "winning": 168246
+  },
+  {
+    "cards": "44555",
+    "bid": 642,
+    "type": 110,
+    "rank": 718,
+    "winning": 460956
+  },
+  {
+    "cards": "44499",
+    "bid": 830,
+    "type": 110,
+    "rank": 717,
+    "winning": 595110
+  },
+  {
+    "cards": "44334",
+    "bid": 401,
+    "type": 110,
+    "rank": 716,
+    "winning": 287116
+  },
+  {
+    "cards": "4J4KK",
+    "bid": 110,
+    "type": 110,
+    "rank": 715,
+    "winning": 78650
+  },
+  {
+    "cards": "3A33A",
+    "bid": 140,
+    "type": 110,
+    "rank": 714,
+    "winning": 99960
+  },
+  {
+    "cards": "3KJ3K",
+    "bid": 56,
+    "type": 110,
+    "rank": 713,
+    "winning": 39928
+  },
+  {
+    "cards": "38838",
+    "bid": 103,
+    "type": 110,
+    "rank": 712,
+    "winning": 73336
+  },
+  {
+    "cards": "36J36",
+    "bid": 211,
+    "type": 110,
+    "rank": 711,
+    "winning": 150021
+  },
+  {
+    "cards": "33AAJ",
+    "bid": 941,
+    "type": 110,
+    "rank": 710,
+    "winning": 668110
+  },
+  {
+    "cards": "33939",
+    "bid": 974,
+    "type": 110,
+    "rank": 709,
+    "winning": 690566
+  },
+  {
+    "cards": "33838",
+    "bid": 368,
+    "type": 110,
+    "rank": 708,
+    "winning": 260544
+  },
+  {
+    "cards": "33663",
+    "bid": 752,
+    "type": 110,
+    "rank": 707,
+    "winning": 531664
+  },
+  {
+    "cards": "33377",
+    "bid": 560,
+    "type": 110,
+    "rank": 706,
+    "winning": 395360
+  },
+  {
+    "cards": "32322",
+    "bid": 917,
+    "type": 110,
+    "rank": 705,
+    "winning": 646485
+  },
+  {
+    "cards": "3J838",
+    "bid": 765,
+    "type": 110,
+    "rank": 704,
+    "winning": 538560
+  },
+  {
+    "cards": "2A22A",
+    "bid": 397,
+    "type": 110,
+    "rank": 703,
+    "winning": 279091
+  },
+  {
+    "cards": "2QQQ2",
+    "bid": 90,
+    "type": 110,
+    "rank": 702,
+    "winning": 63180
+  },
+  {
+    "cards": "2Q22Q",
+    "bid": 384,
+    "type": 110,
+    "rank": 701,
+    "winning": 269184
+  },
+  {
+    "cards": "2T22T",
+    "bid": 4,
+    "type": 110,
+    "rank": 700,
+    "winning": 2800
+  },
+  {
+    "cards": "27722",
+    "bid": 287,
+    "type": 110,
+    "rank": 699,
+    "winning": 200613
+  },
+  {
+    "cards": "25552",
+    "bid": 328,
+    "type": 110,
+    "rank": 698,
+    "winning": 228944
+  },
+  {
+    "cards": "24242",
+    "bid": 800,
+    "type": 110,
+    "rank": 697,
+    "winning": 557600
+  },
+  {
+    "cards": "22QJQ",
+    "bid": 936,
+    "type": 110,
+    "rank": 696,
+    "winning": 651456
+  },
+  {
+    "cards": "22666",
+    "bid": 30,
+    "type": 110,
+    "rank": 695,
+    "winning": 20850
+  },
+  {
+    "cards": "22552",
+    "bid": 676,
+    "type": 110,
+    "rank": 694,
+    "winning": 469144
+  },
+  {
+    "cards": "22299",
+    "bid": 618,
+    "type": 110,
+    "rank": 693,
+    "winning": 428274
+  },
+  {
+    "cards": "JAA66",
+    "bid": 592,
+    "type": 110,
+    "rank": 692,
+    "winning": 409664
+  },
+  {
+    "cards": "J9595",
+    "bid": 154,
+    "type": 110,
+    "rank": 691,
+    "winning": 106414
+  },
+  {
+    "cards": "J5454",
+    "bid": 634,
+    "type": 110,
+    "rank": 690,
+    "winning": 437460
+  },
+  {
+    "cards": "J4TT4",
+    "bid": 684,
+    "type": 110,
+    "rank": 689,
+    "winning": 471276
+  },
+  {
+    "cards": "J4477",
+    "bid": 591,
+    "type": 110,
+    "rank": 688,
+    "winning": 406608
+  },
+  {
+    "cards": "J3Q3Q",
+    "bid": 823,
+    "type": 110,
+    "rank": 687,
+    "winning": 565401
+  },
+  {
+    "cards": "AAAT7",
+    "bid": 112,
+    "type": 102,
+    "rank": 686,
+    "winning": 76832
+  },
+  {
+    "cards": "AA2J4",
+    "bid": 623,
+    "type": 102,
+    "rank": 685,
+    "winning": 426755
+  },
+  {
+    "cards": "AAJ23",
+    "bid": 209,
+    "type": 102,
+    "rank": 684,
+    "winning": 142956
+  },
+  {
+    "cards": "AQJ5A",
+    "bid": 985,
+    "type": 102,
+    "rank": 683,
+    "winning": 672755
+  },
+  {
+    "cards": "A8KAA",
+    "bid": 143,
+    "type": 102,
+    "rank": 682,
+    "winning": 97526
+  },
+  {
+    "cards": "A8883",
+    "bid": 121,
+    "type": 102,
+    "rank": 681,
+    "winning": 82401
+  },
+  {
+    "cards": "A6J99",
+    "bid": 483,
+    "type": 102,
+    "rank": 680,
+    "winning": 328440
+  },
+  {
+    "cards": "A5A7J",
+    "bid": 776,
+    "type": 102,
+    "rank": 679,
+    "winning": 526904
+  },
+  {
+    "cards": "A5A6A",
+    "bid": 413,
+    "type": 102,
+    "rank": 678,
+    "winning": 280014
+  },
+  {
+    "cards": "A3A6A",
+    "bid": 741,
+    "type": 102,
+    "rank": 677,
+    "winning": 501657
+  },
+  {
+    "cards": "A2822",
+    "bid": 366,
+    "type": 102,
+    "rank": 676,
+    "winning": 247416
+  },
+  {
+    "cards": "AJTQA",
+    "bid": 630,
+    "type": 102,
+    "rank": 675,
+    "winning": 425250
+  },
+  {
+    "cards": "AJ399",
+    "bid": 156,
+    "type": 102,
+    "rank": 674,
+    "winning": 105144
+  },
+  {
+    "cards": "KA6AA",
+    "bid": 342,
+    "type": 102,
+    "rank": 673,
+    "winning": 230166
+  },
+  {
+    "cards": "KK8QK",
+    "bid": 196,
+    "type": 102,
+    "rank": 672,
+    "winning": 131712
+  },
+  {
+    "cards": "KQKJ6",
+    "bid": 386,
+    "type": 102,
+    "rank": 671,
+    "winning": 259006
+  },
+  {
+    "cards": "K9929",
+    "bid": 960,
+    "type": 102,
+    "rank": 670,
+    "winning": 643200
+  },
+  {
+    "cards": "K9JKT",
+    "bid": 14,
+    "type": 102,
+    "rank": 669,
+    "winning": 9366
+  },
+  {
+    "cards": "K8333",
+    "bid": 335,
+    "type": 102,
+    "rank": 668,
+    "winning": 223780
+  },
+  {
+    "cards": "K83J8",
+    "bid": 981,
+    "type": 102,
+    "rank": 667,
+    "winning": 654327
+  },
+  {
+    "cards": "K7877",
+    "bid": 24,
+    "type": 102,
+    "rank": 666,
+    "winning": 15984
+  },
+  {
+    "cards": "K6KK8",
+    "bid": 42,
+    "type": 102,
+    "rank": 665,
+    "winning": 27930
+  },
+  {
+    "cards": "K5K2K",
+    "bid": 348,
+    "type": 102,
+    "rank": 664,
+    "winning": 231072
+  },
+  {
+    "cards": "K3J38",
+    "bid": 813,
+    "type": 102,
+    "rank": 663,
+    "winning": 539019
+  },
+  {
+    "cards": "K28J8",
+    "bid": 144,
+    "type": 102,
+    "rank": 662,
+    "winning": 95328
+  },
+  {
+    "cards": "KJK4A",
+    "bid": 28,
+    "type": 102,
+    "rank": 661,
+    "winning": 18508
+  },
+  {
+    "cards": "KJQQ6",
+    "bid": 322,
+    "type": 102,
+    "rank": 660,
+    "winning": 212520
+  },
+  {
+    "cards": "KJ34J",
+    "bid": 96,
+    "type": 102,
+    "rank": 659,
+    "winning": 63264
+  },
+  {
+    "cards": "QA666",
+    "bid": 398,
+    "type": 102,
+    "rank": 658,
+    "winning": 261884
+  },
+  {
+    "cards": "QKJK4",
+    "bid": 824,
+    "type": 102,
+    "rank": 657,
+    "winning": 541368
+  },
+  {
+    "cards": "QQA9Q",
+    "bid": 997,
+    "type": 102,
+    "rank": 656,
+    "winning": 654032
+  },
+  {
+    "cards": "QQTJ7",
+    "bid": 643,
+    "type": 102,
+    "rank": 655,
+    "winning": 421165
+  },
+  {
+    "cards": "QQ5QA",
+    "bid": 587,
+    "type": 102,
+    "rank": 654,
+    "winning": 383898
+  },
+  {
+    "cards": "QQ3TQ",
+    "bid": 410,
+    "type": 102,
+    "rank": 653,
+    "winning": 267730
+  },
+  {
+    "cards": "QQ34Q",
+    "bid": 910,
+    "type": 102,
+    "rank": 652,
+    "winning": 593320
+  },
+  {
+    "cards": "QQ2Q5",
+    "bid": 295,
+    "type": 102,
+    "rank": 651,
+    "winning": 192045
+  },
+  {
+    "cards": "QQ23Q",
+    "bid": 388,
+    "type": 102,
+    "rank": 650,
+    "winning": 252200
+  },
+  {
+    "cards": "Q94QQ",
+    "bid": 856,
+    "type": 102,
+    "rank": 649,
+    "winning": 555544
+  },
+  {
+    "cards": "Q8Q5Q",
+    "bid": 786,
+    "type": 102,
+    "rank": 648,
+    "winning": 509328
+  },
+  {
+    "cards": "Q88T8",
+    "bid": 436,
+    "type": 102,
+    "rank": 647,
+    "winning": 282092
+  },
+  {
+    "cards": "Q7Q4J",
+    "bid": 278,
+    "type": 102,
+    "rank": 646,
+    "winning": 179588
+  },
+  {
+    "cards": "Q68QQ",
+    "bid": 839,
+    "type": 102,
+    "rank": 645,
+    "winning": 541155
+  },
+  {
+    "cards": "Q6696",
+    "bid": 641,
+    "type": 102,
+    "rank": 644,
+    "winning": 412804
+  },
+  {
+    "cards": "Q5K55",
+    "bid": 613,
+    "type": 102,
+    "rank": 643,
+    "winning": 394159
+  },
+  {
+    "cards": "Q444A",
+    "bid": 686,
+    "type": 102,
+    "rank": 642,
+    "winning": 440412
+  },
+  {
+    "cards": "QJA8Q",
+    "bid": 221,
+    "type": 102,
+    "rank": 641,
+    "winning": 141661
+  },
+  {
+    "cards": "TA8AA",
+    "bid": 819,
+    "type": 102,
+    "rank": 640,
+    "winning": 524160
+  },
+  {
+    "cards": "TAJ8T",
+    "bid": 718,
+    "type": 102,
+    "rank": 639,
+    "winning": 458802
+  },
+  {
+    "cards": "TK9KK",
+    "bid": 457,
+    "type": 102,
+    "rank": 638,
+    "winning": 291566
+  },
+  {
+    "cards": "TK4TT",
+    "bid": 553,
+    "type": 102,
+    "rank": 637,
+    "winning": 352261
+  },
+  {
+    "cards": "TTT24",
+    "bid": 485,
+    "type": 102,
+    "rank": 636,
+    "winning": 308460
+  },
+  {
+    "cards": "TT9AT",
+    "bid": 579,
+    "type": 102,
+    "rank": 635,
+    "winning": 367665
+  },
+  {
+    "cards": "T9J79",
+    "bid": 712,
+    "type": 102,
+    "rank": 634,
+    "winning": 451408
+  },
+  {
+    "cards": "T8889",
+    "bid": 294,
+    "type": 102,
+    "rank": 633,
+    "winning": 186102
+  },
+  {
+    "cards": "T8858",
+    "bid": 580,
+    "type": 102,
+    "rank": 632,
+    "winning": 366560
+  },
+  {
+    "cards": "T7J33",
+    "bid": 50,
+    "type": 102,
+    "rank": 631,
+    "winning": 31550
+  },
+  {
+    "cards": "T4TT6",
+    "bid": 147,
+    "type": 102,
+    "rank": 630,
+    "winning": 92610
+  },
+  {
+    "cards": "T45J4",
+    "bid": 969,
+    "type": 102,
+    "rank": 629,
+    "winning": 609501
+  },
+  {
+    "cards": "T4JTK",
+    "bid": 308,
+    "type": 102,
+    "rank": 628,
+    "winning": 193424
+  },
+  {
+    "cards": "TJ78T",
+    "bid": 332,
+    "type": 102,
+    "rank": 627,
+    "winning": 208164
+  },
+  {
+    "cards": "TJ63T",
+    "bid": 395,
+    "type": 102,
+    "rank": 626,
+    "winning": 247270
+  },
+  {
+    "cards": "TJ54J",
+    "bid": 732,
+    "type": 102,
+    "rank": 625,
+    "winning": 457500
+  },
+  {
+    "cards": "9AAJQ",
+    "bid": 194,
+    "type": 102,
+    "rank": 624,
+    "winning": 121056
+  },
+  {
+    "cards": "9K888",
+    "bid": 29,
+    "type": 102,
+    "rank": 623,
+    "winning": 18067
+  },
+  {
+    "cards": "9QTQQ",
+    "bid": 245,
+    "type": 102,
+    "rank": 622,
+    "winning": 152390
+  },
+  {
+    "cards": "9TTT7",
+    "bid": 264,
+    "type": 102,
+    "rank": 621,
+    "winning": 163944
+  },
+  {
+    "cards": "9TTJ2",
+    "bid": 655,
+    "type": 102,
+    "rank": 620,
+    "winning": 406100
+  },
+  {
+    "cards": "9T555",
+    "bid": 220,
+    "type": 102,
+    "rank": 619,
+    "winning": 136180
+  },
+  {
+    "cards": "9TJ88",
+    "bid": 111,
+    "type": 102,
+    "rank": 618,
+    "winning": 68598
+  },
+  {
+    "cards": "99A97",
+    "bid": 98,
+    "type": 102,
+    "rank": 617,
+    "winning": 60466
+  },
+  {
+    "cards": "999K5",
+    "bid": 717,
+    "type": 102,
+    "rank": 616,
+    "winning": 441672
+  },
+  {
+    "cards": "999TQ",
+    "bid": 81,
+    "type": 102,
+    "rank": 615,
+    "winning": 49815
+  },
+  {
+    "cards": "99429",
+    "bid": 94,
+    "type": 102,
+    "rank": 614,
+    "winning": 57716
+  },
+  {
+    "cards": "99JAK",
+    "bid": 704,
+    "type": 102,
+    "rank": 613,
+    "winning": 431552
+  },
+  {
+    "cards": "96TTT",
+    "bid": 503,
+    "type": 102,
+    "rank": 612,
+    "winning": 307836
+  },
+  {
+    "cards": "9666A",
+    "bid": 995,
+    "type": 102,
+    "rank": 611,
+    "winning": 607945
+  },
+  {
+    "cards": "956J9",
+    "bid": 569,
+    "type": 102,
+    "rank": 610,
+    "winning": 347090
+  },
+  {
+    "cards": "949J6",
+    "bid": 277,
+    "type": 102,
+    "rank": 609,
+    "winning": 168693
+  },
+  {
+    "cards": "93833",
+    "bid": 682,
+    "type": 102,
+    "rank": 608,
+    "winning": 414656
+  },
+  {
+    "cards": "92JQQ",
+    "bid": 482,
+    "type": 102,
+    "rank": 607,
+    "winning": 292574
+  },
+  {
+    "cards": "8K666",
+    "bid": 973,
+    "type": 102,
+    "rank": 606,
+    "winning": 589638
+  },
+  {
+    "cards": "89949",
+    "bid": 571,
+    "type": 102,
+    "rank": 605,
+    "winning": 345455
+  },
+  {
+    "cards": "899J6",
+    "bid": 488,
+    "type": 102,
+    "rank": 604,
+    "winning": 294752
+  },
+  {
+    "cards": "88Q68",
+    "bid": 606,
+    "type": 102,
+    "rank": 603,
+    "winning": 365418
+  },
+  {
+    "cards": "88348",
+    "bid": 345,
+    "type": 102,
+    "rank": 602,
+    "winning": 207690
+  },
+  {
+    "cards": "86KKJ",
+    "bid": 770,
+    "type": 102,
+    "rank": 601,
+    "winning": 462770
+  },
+  {
+    "cards": "86656",
+    "bid": 739,
+    "type": 102,
+    "rank": 600,
+    "winning": 443400
+  },
+  {
+    "cards": "84AJ4",
+    "bid": 940,
+    "type": 102,
+    "rank": 599,
+    "winning": 563060
+  },
+  {
+    "cards": "84688",
+    "bid": 48,
+    "type": 102,
+    "rank": 598,
+    "winning": 28704
+  },
+  {
+    "cards": "82TTJ",
+    "bid": 747,
+    "type": 102,
+    "rank": 597,
+    "winning": 445959
+  },
+  {
+    "cards": "82272",
+    "bid": 645,
+    "type": 102,
+    "rank": 596,
+    "winning": 384420
+  },
+  {
+    "cards": "82229",
+    "bid": 661,
+    "type": 102,
+    "rank": 595,
+    "winning": 393295
+  },
+  {
+    "cards": "82J85",
+    "bid": 478,
+    "type": 102,
+    "rank": 594,
+    "winning": 283932
+  },
+  {
+    "cards": "8J73J",
+    "bid": 426,
+    "type": 102,
+    "rank": 593,
+    "winning": 252618
+  },
+  {
+    "cards": "8J2KK",
+    "bid": 656,
+    "type": 102,
+    "rank": 592,
+    "winning": 388352
+  },
+  {
+    "cards": "7K677",
+    "bid": 445,
+    "type": 102,
+    "rank": 591,
+    "winning": 262995
+  },
+  {
+    "cards": "7Q7J4",
+    "bid": 927,
+    "type": 102,
+    "rank": 590,
+    "winning": 546930
+  },
+  {
+    "cards": "7QJ75",
+    "bid": 314,
+    "type": 102,
+    "rank": 589,
+    "winning": 184946
+  },
+  {
+    "cards": "78Q77",
+    "bid": 520,
+    "type": 102,
+    "rank": 588,
+    "winning": 305760
+  },
+  {
+    "cards": "78QJ8",
+    "bid": 543,
+    "type": 102,
+    "rank": 587,
+    "winning": 318741
+  },
+  {
+    "cards": "78775",
+    "bid": 60,
+    "type": 102,
+    "rank": 586,
+    "winning": 35160
+  },
+  {
+    "cards": "78772",
+    "bid": 481,
+    "type": 102,
+    "rank": 585,
+    "winning": 281385
+  },
+  {
+    "cards": "77876",
+    "bid": 153,
+    "type": 102,
+    "rank": 584,
+    "winning": 89352
+  },
+  {
+    "cards": "77769",
+    "bid": 464,
+    "type": 102,
+    "rank": 583,
+    "winning": 270512
+  },
+  {
+    "cards": "7757K",
+    "bid": 471,
+    "type": 102,
+    "rank": 582,
+    "winning": 274122
+  },
+  {
+    "cards": "7757Q",
+    "bid": 43,
+    "type": 102,
+    "rank": 581,
+    "winning": 24983
+  },
+  {
+    "cards": "767Q7",
+    "bid": 631,
+    "type": 102,
+    "rank": 580,
+    "winning": 365980
+  },
+  {
+    "cards": "75999",
+    "bid": 537,
+    "type": 102,
+    "rank": 579,
+    "winning": 310923
+  },
+  {
+    "cards": "7547J",
+    "bid": 499,
+    "type": 102,
+    "rank": 578,
+    "winning": 288422
+  },
+  {
+    "cards": "75J27",
+    "bid": 162,
+    "type": 102,
+    "rank": 577,
+    "winning": 93474
+  },
+  {
+    "cards": "7344J",
+    "bid": 525,
+    "type": 102,
+    "rank": 576,
+    "winning": 302400
+  },
+  {
+    "cards": "7J273",
+    "bid": 795,
+    "type": 102,
+    "rank": 575,
+    "winning": 457125
+  },
+  {
+    "cards": "7JJ42",
+    "bid": 502,
+    "type": 102,
+    "rank": 574,
+    "winning": 288148
+  },
+  {
+    "cards": "6KKK7",
+    "bid": 827,
+    "type": 102,
+    "rank": 573,
+    "winning": 473871
+  },
+  {
+    "cards": "6K55J",
+    "bid": 604,
+    "type": 102,
+    "rank": 572,
+    "winning": 345488
+  },
+  {
+    "cards": "6T7TT",
+    "bid": 385,
+    "type": 102,
+    "rank": 571,
+    "winning": 219835
+  },
+  {
+    "cards": "6TJJK",
+    "bid": 240,
+    "type": 102,
+    "rank": 570,
+    "winning": 136800
+  },
+  {
+    "cards": "66T86",
+    "bid": 736,
+    "type": 102,
+    "rank": 569,
+    "winning": 418784
+  },
+  {
+    "cards": "6668A",
+    "bid": 883,
+    "type": 102,
+    "rank": 568,
+    "winning": 501544
+  },
+  {
+    "cards": "64J36",
+    "bid": 581,
+    "type": 102,
+    "rank": 567,
+    "winning": 329427
+  },
+  {
+    "cards": "63966",
+    "bid": 523,
+    "type": 102,
+    "rank": 566,
+    "winning": 296018
+  },
+  {
+    "cards": "63686",
+    "bid": 533,
+    "type": 102,
+    "rank": 565,
+    "winning": 301145
+  },
+  {
+    "cards": "63665",
+    "bid": 681,
+    "type": 102,
+    "rank": 564,
+    "winning": 384084
+  },
+  {
+    "cards": "62228",
+    "bid": 815,
+    "type": 102,
+    "rank": 563,
+    "winning": 458845
+  },
+  {
+    "cards": "622J9",
+    "bid": 379,
+    "type": 102,
+    "rank": 562,
+    "winning": 212998
+  },
+  {
+    "cards": "5A755",
+    "bid": 107,
+    "type": 102,
+    "rank": 561,
+    "winning": 60027
+  },
+  {
+    "cards": "5QT55",
+    "bid": 119,
+    "type": 102,
+    "rank": 560,
+    "winning": 66640
+  },
+  {
+    "cards": "5T5A5",
+    "bid": 607,
+    "type": 102,
+    "rank": 559,
+    "winning": 339313
+  },
+  {
+    "cards": "5TJ88",
+    "bid": 433,
+    "type": 102,
+    "rank": 558,
+    "winning": 241614
+  },
+  {
+    "cards": "5954J",
+    "bid": 412,
+    "type": 102,
+    "rank": 557,
+    "winning": 229484
+  },
+  {
+    "cards": "58JT5",
+    "bid": 862,
+    "type": 102,
+    "rank": 556,
+    "winning": 479272
+  },
+  {
+    "cards": "56558",
+    "bid": 735,
+    "type": 102,
+    "rank": 555,
+    "winning": 407925
+  },
+  {
+    "cards": "55T58",
+    "bid": 923,
+    "type": 102,
+    "rank": 554,
+    "winning": 511342
+  },
+  {
+    "cards": "5575T",
+    "bid": 779,
+    "type": 102,
+    "rank": 553,
+    "winning": 430787
+  },
+  {
+    "cards": "55587",
+    "bid": 610,
+    "type": 102,
+    "rank": 552,
+    "winning": 336720
+  },
+  {
+    "cards": "55537",
+    "bid": 15,
+    "type": 102,
+    "rank": 551,
+    "winning": 8265
+  },
+  {
+    "cards": "55485",
+    "bid": 930,
+    "type": 102,
+    "rank": 550,
+    "winning": 511500
+  },
+  {
+    "cards": "547JJ",
+    "bid": 806,
+    "type": 102,
+    "rank": 549,
+    "winning": 442494
+  },
+  {
+    "cards": "54JA5",
+    "bid": 787,
+    "type": 102,
+    "rank": 548,
+    "winning": 431276
+  },
+  {
+    "cards": "52KJJ",
+    "bid": 987,
+    "type": 102,
+    "rank": 547,
+    "winning": 539889
+  },
+  {
+    "cards": "5JQ57",
+    "bid": 945,
+    "type": 102,
+    "rank": 546,
+    "winning": 515970
+  },
+  {
+    "cards": "4ATTT",
+    "bid": 299,
+    "type": 102,
+    "rank": 545,
+    "winning": 162955
+  },
+  {
+    "cards": "4KK8K",
+    "bid": 393,
+    "type": 102,
+    "rank": 544,
+    "winning": 213792
+  },
+  {
+    "cards": "4QQQ6",
+    "bid": 665,
+    "type": 102,
+    "rank": 543,
+    "winning": 361095
+  },
+  {
+    "cards": "4Q6JJ",
+    "bid": 370,
+    "type": 102,
+    "rank": 542,
+    "winning": 200540
+  },
+  {
+    "cards": "4T446",
+    "bid": 507,
+    "type": 102,
+    "rank": 541,
+    "winning": 274287
+  },
+  {
+    "cards": "4888K",
+    "bid": 852,
+    "type": 102,
+    "rank": 540,
+    "winning": 460080
+  },
+  {
+    "cards": "48443",
+    "bid": 834,
+    "type": 102,
+    "rank": 539,
+    "winning": 449526
+  },
+  {
+    "cards": "4447K",
+    "bid": 730,
+    "type": 102,
+    "rank": 538,
+    "winning": 392740
+  },
+  {
+    "cards": "42JA4",
+    "bid": 734,
+    "type": 102,
+    "rank": 537,
+    "winning": 394158
+  },
+  {
+    "cards": "4JKK7",
+    "bid": 51,
+    "type": 102,
+    "rank": 536,
+    "winning": 27336
+  },
+  {
+    "cards": "4J546",
+    "bid": 810,
+    "type": 102,
+    "rank": 535,
+    "winning": 433350
+  },
+  {
+    "cards": "4J42Q",
+    "bid": 690,
+    "type": 102,
+    "rank": 534,
+    "winning": 368460
+  },
+  {
+    "cards": "3KKK7",
+    "bid": 62,
+    "type": 102,
+    "rank": 533,
+    "winning": 33046
+  },
+  {
+    "cards": "3KK5K",
+    "bid": 453,
+    "type": 102,
+    "rank": 532,
+    "winning": 240996
+  },
+  {
+    "cards": "3KK2J",
+    "bid": 132,
+    "type": 102,
+    "rank": 531,
+    "winning": 70092
+  },
+  {
+    "cards": "3QJQ2",
+    "bid": 590,
+    "type": 102,
+    "rank": 530,
+    "winning": 312700
+  },
+  {
+    "cards": "388J4",
+    "bid": 970,
+    "type": 102,
+    "rank": 529,
+    "winning": 513130
+  },
+  {
+    "cards": "3734J",
+    "bid": 141,
+    "type": 102,
+    "rank": 528,
+    "winning": 74448
+  },
+  {
+    "cards": "3677J",
+    "bid": 596,
+    "type": 102,
+    "rank": 527,
+    "winning": 314092
+  },
+  {
+    "cards": "35K55",
+    "bid": 419,
+    "type": 102,
+    "rank": 526,
+    "winning": 220394
+  },
+  {
+    "cards": "3555T",
+    "bid": 597,
+    "type": 102,
+    "rank": 525,
+    "winning": 313425
+  },
+  {
+    "cards": "34335",
+    "bid": 69,
+    "type": 102,
+    "rank": 524,
+    "winning": 36156
+  },
+  {
+    "cards": "33QT3",
+    "bid": 378,
+    "type": 102,
+    "rank": 523,
+    "winning": 197694
+  },
+  {
+    "cards": "33935",
+    "bid": 152,
+    "type": 102,
+    "rank": 522,
+    "winning": 79344
+  },
+  {
+    "cards": "33723",
+    "bid": 303,
+    "type": 102,
+    "rank": 521,
+    "winning": 157863
+  },
+  {
+    "cards": "33239",
+    "bid": 652,
+    "type": 102,
+    "rank": 520,
+    "winning": 339040
+  },
+  {
+    "cards": "332J8",
+    "bid": 555,
+    "type": 102,
+    "rank": 519,
+    "winning": 288045
+  },
+  {
+    "cards": "328J2",
+    "bid": 577,
+    "type": 102,
+    "rank": 518,
+    "winning": 298886
+  },
+  {
+    "cards": "32JTT",
+    "bid": 165,
+    "type": 102,
+    "rank": 517,
+    "winning": 85305
+  },
+  {
+    "cards": "32J2T",
+    "bid": 92,
+    "type": 102,
+    "rank": 516,
+    "winning": 47472
+  },
+  {
+    "cards": "3JQJA",
+    "bid": 558,
+    "type": 102,
+    "rank": 515,
+    "winning": 287370
+  },
+  {
+    "cards": "3J7A7",
+    "bid": 200,
+    "type": 102,
+    "rank": 514,
+    "winning": 102800
+  },
+  {
+    "cards": "2A555",
+    "bid": 731,
+    "type": 102,
+    "rank": 513,
+    "winning": 375003
+  },
+  {
+    "cards": "2K6KK",
+    "bid": 168,
+    "type": 102,
+    "rank": 512,
+    "winning": 86016
+  },
+  {
+    "cards": "2K22A",
+    "bid": 790,
+    "type": 102,
+    "rank": 511,
+    "winning": 403690
+  },
+  {
+    "cards": "2QQTQ",
+    "bid": 59,
+    "type": 102,
+    "rank": 510,
+    "winning": 30090
+  },
+  {
+    "cards": "2Q5JJ",
+    "bid": 362,
+    "type": 102,
+    "rank": 509,
+    "winning": 184258
+  },
+  {
+    "cards": "2TQJT",
+    "bid": 271,
+    "type": 102,
+    "rank": 508,
+    "winning": 137668
+  },
+  {
+    "cards": "2T8JJ",
+    "bid": 588,
+    "type": 102,
+    "rank": 507,
+    "winning": 298116
+  },
+  {
+    "cards": "2T333",
+    "bid": 562,
+    "type": 102,
+    "rank": 506,
+    "winning": 284372
+  },
+  {
+    "cards": "2T223",
+    "bid": 136,
+    "type": 102,
+    "rank": 505,
+    "winning": 68680
+  },
+  {
+    "cards": "287JJ",
+    "bid": 708,
+    "type": 102,
+    "rank": 504,
+    "winning": 356832
+  },
+  {
+    "cards": "27A22",
+    "bid": 521,
+    "type": 102,
+    "rank": 503,
+    "winning": 262063
+  },
+  {
+    "cards": "26999",
+    "bid": 34,
+    "type": 102,
+    "rank": 502,
+    "winning": 17068
+  },
+  {
+    "cards": "25822",
+    "bid": 226,
+    "type": 102,
+    "rank": 501,
+    "winning": 113226
+  },
+  {
+    "cards": "2522A",
+    "bid": 757,
+    "type": 102,
+    "rank": 500,
+    "winning": 378500
+  },
+  {
+    "cards": "244JT",
+    "bid": 538,
+    "type": 102,
+    "rank": 499,
+    "winning": 268462
+  },
+  {
+    "cards": "24J72",
+    "bid": 429,
+    "type": 102,
+    "rank": 498,
+    "winning": 213642
+  },
+  {
+    "cards": "232J4",
+    "bid": 155,
+    "type": 102,
+    "rank": 497,
+    "winning": 77035
+  },
+  {
+    "cards": "22A6J",
+    "bid": 406,
+    "type": 102,
+    "rank": 496,
+    "winning": 201376
+  },
+  {
+    "cards": "22K23",
+    "bid": 522,
+    "type": 102,
+    "rank": 495,
+    "winning": 258390
+  },
+  {
+    "cards": "22T28",
+    "bid": 701,
+    "type": 102,
+    "rank": 494,
+    "winning": 346294
+  },
+  {
+    "cards": "2292A",
+    "bid": 434,
+    "type": 102,
+    "rank": 493,
+    "winning": 213962
+  },
+  {
+    "cards": "22423",
+    "bid": 951,
+    "type": 102,
+    "rank": 492,
+    "winning": 467892
+  },
+  {
+    "cards": "222KQ",
+    "bid": 455,
+    "type": 102,
+    "rank": 491,
+    "winning": 223405
+  },
+  {
+    "cards": "2227T",
+    "bid": 609,
+    "type": 102,
+    "rank": 490,
+    "winning": 298410
+  },
+  {
+    "cards": "2224T",
+    "bid": 85,
+    "type": 102,
+    "rank": 489,
+    "winning": 41565
+  },
+  {
+    "cards": "2JAJT",
+    "bid": 900,
+    "type": 102,
+    "rank": 488,
+    "winning": 439200
+  },
+  {
+    "cards": "2JQ92",
+    "bid": 158,
+    "type": 102,
+    "rank": 487,
+    "winning": 76946
+  },
+  {
+    "cards": "2J72Q",
+    "bid": 711,
+    "type": 102,
+    "rank": 486,
+    "winning": 345546
+  },
+  {
+    "cards": "JA97J",
+    "bid": 238,
+    "type": 102,
+    "rank": 485,
+    "winning": 115430
+  },
+  {
+    "cards": "JKK92",
+    "bid": 691,
+    "type": 102,
+    "rank": 484,
+    "winning": 334444
+  },
+  {
+    "cards": "JK67J",
+    "bid": 275,
+    "type": 102,
+    "rank": 483,
+    "winning": 132825
+  },
+  {
+    "cards": "JTAJ6",
+    "bid": 767,
+    "type": 102,
+    "rank": 482,
+    "winning": 369694
+  },
+  {
+    "cards": "JT7J6",
+    "bid": 459,
+    "type": 102,
+    "rank": 481,
+    "winning": 220779
+  },
+  {
+    "cards": "J9TKT",
+    "bid": 919,
+    "type": 102,
+    "rank": 480,
+    "winning": 441120
+  },
+  {
+    "cards": "J92T9",
+    "bid": 983,
+    "type": 102,
+    "rank": 479,
+    "winning": 470857
+  },
+  {
+    "cards": "J929A",
+    "bid": 246,
+    "type": 102,
+    "rank": 478,
+    "winning": 117588
+  },
+  {
+    "cards": "J8QQK",
+    "bid": 324,
+    "type": 102,
+    "rank": 477,
+    "winning": 154548
+  },
+  {
+    "cards": "J8T38",
+    "bid": 475,
+    "type": 102,
+    "rank": 476,
+    "winning": 226100
+  },
+  {
+    "cards": "J77QT",
+    "bid": 870,
+    "type": 102,
+    "rank": 475,
+    "winning": 413250
+  },
+  {
+    "cards": "J7578",
+    "bid": 510,
+    "type": 102,
+    "rank": 474,
+    "winning": 241740
+  },
+  {
+    "cards": "J6Q6T",
+    "bid": 777,
+    "type": 102,
+    "rank": 473,
+    "winning": 367521
+  },
+  {
+    "cards": "J6TTK",
+    "bid": 274,
+    "type": 102,
+    "rank": 472,
+    "winning": 129328
+  },
+  {
+    "cards": "J6569",
+    "bid": 658,
+    "type": 102,
+    "rank": 471,
+    "winning": 309918
+  },
+  {
+    "cards": "J5578",
+    "bid": 497,
+    "type": 102,
+    "rank": 470,
+    "winning": 233590
+  },
+  {
+    "cards": "J4A43",
+    "bid": 583,
+    "type": 102,
+    "rank": 469,
+    "winning": 273427
+  },
+  {
+    "cards": "J4T3T",
+    "bid": 265,
+    "type": 102,
+    "rank": 468,
+    "winning": 124020
+  },
+  {
+    "cards": "J4J29",
+    "bid": 565,
+    "type": 102,
+    "rank": 467,
+    "winning": 263855
+  },
+  {
+    "cards": "J3A37",
+    "bid": 361,
+    "type": 102,
+    "rank": 466,
+    "winning": 168226
+  },
+  {
+    "cards": "J3KK8",
+    "bid": 966,
+    "type": 102,
+    "rank": 465,
+    "winning": 449190
+  },
+  {
+    "cards": "J3QQ4",
+    "bid": 125,
+    "type": 102,
+    "rank": 464,
+    "winning": 58000
+  },
+  {
+    "cards": "J22T7",
+    "bid": 288,
+    "type": 102,
+    "rank": 463,
+    "winning": 133344
+  },
+  {
+    "cards": "JJA27",
+    "bid": 91,
+    "type": 102,
+    "rank": 462,
+    "winning": 42042
+  },
+  {
+    "cards": "JJ59T",
+    "bid": 353,
+    "type": 102,
+    "rank": 461,
+    "winning": 162733
+  },
+  {
+    "cards": "AAKK3",
+    "bid": 673,
+    "type": 21,
+    "rank": 460,
+    "winning": 309580
+  },
+  {
+    "cards": "AAK8K",
+    "bid": 172,
+    "type": 21,
+    "rank": 459,
+    "winning": 78948
+  },
+  {
+    "cards": "AA343",
+    "bid": 671,
+    "type": 21,
+    "rank": 458,
+    "winning": 307318
+  },
+  {
+    "cards": "AKTAK",
+    "bid": 965,
+    "type": 21,
+    "rank": 457,
+    "winning": 441005
+  },
+  {
+    "cards": "AT66A",
+    "bid": 217,
+    "type": 21,
+    "rank": 456,
+    "winning": 98952
+  },
+  {
+    "cards": "A997A",
+    "bid": 912,
+    "type": 21,
+    "rank": 455,
+    "winning": 414960
+  },
+  {
+    "cards": "A8282",
+    "bid": 360,
+    "type": 21,
+    "rank": 454,
+    "winning": 163440
+  },
+  {
+    "cards": "A77AQ",
+    "bid": 336,
+    "type": 21,
+    "rank": 453,
+    "winning": 152208
+  },
+  {
+    "cards": "A72A7",
+    "bid": 627,
+    "type": 21,
+    "rank": 452,
+    "winning": 283404
+  },
+  {
+    "cards": "A66AQ",
+    "bid": 894,
+    "type": 21,
+    "rank": 451,
+    "winning": 403194
+  },
+  {
+    "cards": "A4242",
+    "bid": 387,
+    "type": 21,
+    "rank": 450,
+    "winning": 174150
+  },
+  {
+    "cards": "A2QAQ",
+    "bid": 626,
+    "type": 21,
+    "rank": 449,
+    "winning": 281074
+  },
+  {
+    "cards": "A25A2",
+    "bid": 6,
+    "type": 21,
+    "rank": 448,
+    "winning": 2688
+  },
+  {
+    "cards": "KKATT",
+    "bid": 517,
+    "type": 21,
+    "rank": 447,
+    "winning": 231099
+  },
+  {
+    "cards": "KKQQ8",
+    "bid": 124,
+    "type": 21,
+    "rank": 446,
+    "winning": 55304
+  },
+  {
+    "cards": "KKQ33",
+    "bid": 954,
+    "type": 21,
+    "rank": 445,
+    "winning": 424530
+  },
+  {
+    "cards": "KK55A",
+    "bid": 707,
+    "type": 21,
+    "rank": 444,
+    "winning": 313908
+  },
+  {
+    "cards": "KTKT6",
+    "bid": 292,
+    "type": 21,
+    "rank": 443,
+    "winning": 129356
+  },
+  {
+    "cards": "K8KQ8",
+    "bid": 374,
+    "type": 21,
+    "rank": 442,
+    "winning": 165308
+  },
+  {
+    "cards": "K8KT8",
+    "bid": 857,
+    "type": 21,
+    "rank": 441,
+    "winning": 377937
+  },
+  {
+    "cards": "K8K99",
+    "bid": 430,
+    "type": 21,
+    "rank": 440,
+    "winning": 189200
+  },
+  {
+    "cards": "K8TTK",
+    "bid": 47,
+    "type": 21,
+    "rank": 439,
+    "winning": 20633
+  },
+  {
+    "cards": "K887K",
+    "bid": 700,
+    "type": 21,
+    "rank": 438,
+    "winning": 306600
+  },
+  {
+    "cards": "K77TK",
+    "bid": 174,
+    "type": 21,
+    "rank": 437,
+    "winning": 76038
+  },
+  {
+    "cards": "K4T4T",
+    "bid": 792,
+    "type": 21,
+    "rank": 436,
+    "winning": 345312
+  },
+  {
+    "cards": "K454K",
+    "bid": 980,
+    "type": 21,
+    "rank": 435,
+    "winning": 426300
+  },
+  {
+    "cards": "K4499",
+    "bid": 327,
+    "type": 21,
+    "rank": 434,
+    "winning": 141918
+  },
+  {
+    "cards": "K3K55",
+    "bid": 149,
+    "type": 21,
+    "rank": 433,
+    "winning": 64517
+  },
+  {
+    "cards": "K2TK2",
+    "bid": 602,
+    "type": 21,
+    "rank": 432,
+    "winning": 260064
+  },
+  {
+    "cards": "QQT55",
+    "bid": 447,
+    "type": 21,
+    "rank": 431,
+    "winning": 192657
+  },
+  {
+    "cards": "QQ464",
+    "bid": 427,
+    "type": 21,
+    "rank": 430,
+    "winning": 183610
+  },
+  {
+    "cards": "QQ363",
+    "bid": 949,
+    "type": 21,
+    "rank": 429,
+    "winning": 407121
+  },
+  {
+    "cards": "Q73Q3",
+    "bid": 561,
+    "type": 21,
+    "rank": 428,
+    "winning": 240108
+  },
+  {
+    "cards": "Q69Q9",
+    "bid": 333,
+    "type": 21,
+    "rank": 427,
+    "winning": 142191
+  },
+  {
+    "cards": "Q4KK4",
+    "bid": 727,
+    "type": 21,
+    "rank": 426,
+    "winning": 309702
+  },
+  {
+    "cards": "Q4Q4K",
+    "bid": 403,
+    "type": 21,
+    "rank": 425,
+    "winning": 171275
+  },
+  {
+    "cards": "TKK99",
+    "bid": 515,
+    "type": 21,
+    "rank": 424,
+    "winning": 218360
+  },
+  {
+    "cards": "TKK3T",
+    "bid": 75,
+    "type": 21,
+    "rank": 423,
+    "winning": 31725
+  },
+  {
+    "cards": "TQT33",
+    "bid": 179,
+    "type": 21,
+    "rank": 422,
+    "winning": 75538
+  },
+  {
+    "cards": "TT882",
+    "bid": 304,
+    "type": 21,
+    "rank": 421,
+    "winning": 127984
+  },
+  {
+    "cards": "TT788",
+    "bid": 794,
+    "type": 21,
+    "rank": 420,
+    "winning": 333480
+  },
+  {
+    "cards": "TT6AA",
+    "bid": 811,
+    "type": 21,
+    "rank": 419,
+    "winning": 339809
+  },
+  {
+    "cards": "T8QTQ",
+    "bid": 405,
+    "type": 21,
+    "rank": 418,
+    "winning": 169290
+  },
+  {
+    "cards": "T8TA8",
+    "bid": 772,
+    "type": 21,
+    "rank": 417,
+    "winning": 321924
+  },
+  {
+    "cards": "T4T4A",
+    "bid": 899,
+    "type": 21,
+    "rank": 416,
+    "winning": 373984
+  },
+  {
+    "cards": "T3T37",
+    "bid": 716,
+    "type": 21,
+    "rank": 415,
+    "winning": 297140
+  },
+  {
+    "cards": "9AA89",
+    "bid": 44,
+    "type": 21,
+    "rank": 414,
+    "winning": 18216
+  },
+  {
+    "cards": "9AQAQ",
+    "bid": 978,
+    "type": 21,
+    "rank": 413,
+    "winning": 403914
+  },
+  {
+    "cards": "9K898",
+    "bid": 798,
+    "type": 21,
+    "rank": 412,
+    "winning": 328776
+  },
+  {
+    "cards": "9Q94Q",
+    "bid": 206,
+    "type": 21,
+    "rank": 411,
+    "winning": 84666
+  },
+  {
+    "cards": "9Q66Q",
+    "bid": 76,
+    "type": 21,
+    "rank": 410,
+    "winning": 31160
+  },
+  {
+    "cards": "9TAT9",
+    "bid": 733,
+    "type": 21,
+    "rank": 409,
+    "winning": 299797
+  },
+  {
+    "cards": "9T95T",
+    "bid": 477,
+    "type": 21,
+    "rank": 408,
+    "winning": 194616
+  },
+  {
+    "cards": "9T49T",
+    "bid": 326,
+    "type": 21,
+    "rank": 407,
+    "winning": 132682
+  },
+  {
+    "cards": "995KK",
+    "bid": 192,
+    "type": 21,
+    "rank": 406,
+    "winning": 77952
+  },
+  {
+    "cards": "97789",
+    "bid": 603,
+    "type": 21,
+    "rank": 405,
+    "winning": 244215
+  },
+  {
+    "cards": "95A59",
+    "bid": 479,
+    "type": 21,
+    "rank": 404,
+    "winning": 193516
+  },
+  {
+    "cards": "95K95",
+    "bid": 258,
+    "type": 21,
+    "rank": 403,
+    "winning": 103974
+  },
+  {
+    "cards": "94T4T",
+    "bid": 578,
+    "type": 21,
+    "rank": 402,
+    "winning": 232356
+  },
+  {
+    "cards": "939AA",
+    "bid": 67,
+    "type": 21,
+    "rank": 401,
+    "winning": 26867
+  },
+  {
+    "cards": "93953",
+    "bid": 646,
+    "type": 21,
+    "rank": 400,
+    "winning": 258400
+  },
+  {
+    "cards": "92492",
+    "bid": 774,
+    "type": 21,
+    "rank": 399,
+    "winning": 308826
+  },
+  {
+    "cards": "92279",
+    "bid": 435,
+    "type": 21,
+    "rank": 398,
+    "winning": 173130
+  },
+  {
+    "cards": "8AA98",
+    "bid": 17,
+    "type": 21,
+    "rank": 397,
+    "winning": 6749
+  },
+  {
+    "cards": "8K68K",
+    "bid": 3,
+    "type": 21,
+    "rank": 396,
+    "winning": 1188
+  },
+  {
+    "cards": "8Q866",
+    "bid": 812,
+    "type": 21,
+    "rank": 395,
+    "winning": 320740
+  },
+  {
+    "cards": "8T989",
+    "bid": 939,
+    "type": 21,
+    "rank": 394,
+    "winning": 369966
+  },
+  {
+    "cards": "886TT",
+    "bid": 975,
+    "type": 21,
+    "rank": 393,
+    "winning": 383175
+  },
+  {
+    "cards": "88337",
+    "bid": 548,
+    "type": 21,
+    "rank": 392,
+    "winning": 214816
+  },
+  {
+    "cards": "878QQ",
+    "bid": 541,
+    "type": 21,
+    "rank": 391,
+    "winning": 211531
+  },
+  {
+    "cards": "855TT",
+    "bid": 689,
+    "type": 21,
+    "rank": 390,
+    "winning": 268710
+  },
+  {
+    "cards": "85228",
+    "bid": 584,
+    "type": 21,
+    "rank": 389,
+    "winning": 227176
+  },
+  {
+    "cards": "8338K",
+    "bid": 768,
+    "type": 21,
+    "rank": 388,
+    "winning": 297984
+  },
+  {
+    "cards": "83384",
+    "bid": 771,
+    "type": 21,
+    "rank": 387,
+    "winning": 298377
+  },
+  {
+    "cards": "7Q7Q6",
+    "bid": 420,
+    "type": 21,
+    "rank": 386,
+    "winning": 162120
+  },
+  {
+    "cards": "79769",
+    "bid": 854,
+    "type": 21,
+    "rank": 385,
+    "winning": 328790
+  },
+  {
+    "cards": "77A66",
+    "bid": 831,
+    "type": 21,
+    "rank": 384,
+    "winning": 319104
+  },
+  {
+    "cards": "77T44",
+    "bid": 859,
+    "type": 21,
+    "rank": 383,
+    "winning": 328997
+  },
+  {
+    "cards": "766T7",
+    "bid": 938,
+    "type": 21,
+    "rank": 382,
+    "winning": 358316
+  },
+  {
+    "cards": "75756",
+    "bid": 207,
+    "type": 21,
+    "rank": 381,
+    "winning": 78867
+  },
+  {
+    "cards": "744KK",
+    "bid": 628,
+    "type": 21,
+    "rank": 380,
+    "winning": 238640
+  },
+  {
+    "cards": "727Q2",
+    "bid": 146,
+    "type": 21,
+    "rank": 379,
+    "winning": 55334
+  },
+  {
+    "cards": "72626",
+    "bid": 705,
+    "type": 21,
+    "rank": 378,
+    "winning": 266490
+  },
+  {
+    "cards": "72575",
+    "bid": 764,
+    "type": 21,
+    "rank": 377,
+    "winning": 288028
+  },
+  {
+    "cards": "6T622",
+    "bid": 178,
+    "type": 21,
+    "rank": 376,
+    "winning": 66928
+  },
+  {
+    "cards": "696A9",
+    "bid": 330,
+    "type": 21,
+    "rank": 375,
+    "winning": 123750
+  },
+  {
+    "cards": "68K6K",
+    "bid": 340,
+    "type": 21,
+    "rank": 374,
+    "winning": 127160
+  },
+  {
+    "cards": "676AA",
+    "bid": 840,
+    "type": 21,
+    "rank": 373,
+    "winning": 313320
+  },
+  {
+    "cards": "66AKK",
+    "bid": 171,
+    "type": 21,
+    "rank": 372,
+    "winning": 63612
+  },
+  {
+    "cards": "66QAQ",
+    "bid": 442,
+    "type": 21,
+    "rank": 371,
+    "winning": 163982
+  },
+  {
+    "cards": "66858",
+    "bid": 754,
+    "type": 21,
+    "rank": 370,
+    "winning": 278980
+  },
+  {
+    "cards": "66844",
+    "bid": 369,
+    "type": 21,
+    "rank": 369,
+    "winning": 136161
+  },
+  {
+    "cards": "6633Q",
+    "bid": 108,
+    "type": 21,
+    "rank": 368,
+    "winning": 39744
+  },
+  {
+    "cards": "59T5T",
+    "bid": 188,
+    "type": 21,
+    "rank": 367,
+    "winning": 68996
+  },
+  {
+    "cards": "58685",
+    "bid": 2,
+    "type": 21,
+    "rank": 366,
+    "winning": 732
+  },
+  {
+    "cards": "58528",
+    "bid": 84,
+    "type": 21,
+    "rank": 365,
+    "winning": 30660
+  },
+  {
+    "cards": "57QQ5",
+    "bid": 55,
+    "type": 21,
+    "rank": 364,
+    "winning": 20020
+  },
+  {
+    "cards": "57335",
+    "bid": 439,
+    "type": 21,
+    "rank": 363,
+    "winning": 159357
+  },
+  {
+    "cards": "565Q6",
+    "bid": 758,
+    "type": 21,
+    "rank": 362,
+    "winning": 274396
+  },
+  {
+    "cards": "56568",
+    "bid": 38,
+    "type": 21,
+    "rank": 361,
+    "winning": 13718
+  },
+  {
+    "cards": "55AA6",
+    "bid": 58,
+    "type": 21,
+    "rank": 360,
+    "winning": 20880
+  },
+  {
+    "cards": "55A66",
+    "bid": 383,
+    "type": 21,
+    "rank": 359,
+    "winning": 137497
+  },
+  {
+    "cards": "55KK2",
+    "bid": 934,
+    "type": 21,
+    "rank": 358,
+    "winning": 334372
+  },
+  {
+    "cards": "557Q7",
+    "bid": 236,
+    "type": 21,
+    "rank": 357,
+    "winning": 84252
+  },
+  {
+    "cards": "5577K",
+    "bid": 282,
+    "type": 21,
+    "rank": 356,
+    "winning": 100392
+  },
+  {
+    "cards": "55636",
+    "bid": 392,
+    "type": 21,
+    "rank": 355,
+    "winning": 139160
+  },
+  {
+    "cards": "55448",
+    "bid": 285,
+    "type": 21,
+    "rank": 354,
+    "winning": 100890
+  },
+  {
+    "cards": "5533T",
+    "bid": 173,
+    "type": 21,
+    "rank": 353,
+    "winning": 61069
+  },
+  {
+    "cards": "54225",
+    "bid": 106,
+    "type": 21,
+    "rank": 352,
+    "winning": 37312
+  },
+  {
+    "cards": "53358",
+    "bid": 205,
+    "type": 21,
+    "rank": 351,
+    "winning": 71955
+  },
+  {
+    "cards": "53232",
+    "bid": 988,
+    "type": 21,
+    "rank": 350,
+    "winning": 345800
+  },
+  {
+    "cards": "52626",
+    "bid": 695,
+    "type": 21,
+    "rank": 349,
+    "winning": 242555
+  },
+  {
+    "cards": "49848",
+    "bid": 87,
+    "type": 21,
+    "rank": 348,
+    "winning": 30276
+  },
+  {
+    "cards": "484K8",
+    "bid": 649,
+    "type": 21,
+    "rank": 347,
+    "winning": 225203
+  },
+  {
+    "cards": "4848T",
+    "bid": 788,
+    "type": 21,
+    "rank": 346,
+    "winning": 272648
+  },
+  {
+    "cards": "4774A",
+    "bid": 657,
+    "type": 21,
+    "rank": 345,
+    "winning": 226665
+  },
+  {
+    "cards": "47478",
+    "bid": 532,
+    "type": 21,
+    "rank": 344,
+    "winning": 183008
+  },
+  {
+    "cards": "46556",
+    "bid": 321,
+    "type": 21,
+    "rank": 343,
+    "winning": 110103
+  },
+  {
+    "cards": "45884",
+    "bid": 191,
+    "type": 21,
+    "rank": 342,
+    "winning": 65322
+  },
+  {
+    "cards": "44A33",
+    "bid": 714,
+    "type": 21,
+    "rank": 341,
+    "winning": 243474
+  },
+  {
+    "cards": "449QQ",
+    "bid": 892,
+    "type": 21,
+    "rank": 340,
+    "winning": 303280
+  },
+  {
+    "cards": "3A37A",
+    "bid": 210,
+    "type": 21,
+    "rank": 339,
+    "winning": 71190
+  },
+  {
+    "cards": "38A38",
+    "bid": 77,
+    "type": 21,
+    "rank": 338,
+    "winning": 26026
+  },
+  {
+    "cards": "38538",
+    "bid": 241,
+    "type": 21,
+    "rank": 337,
+    "winning": 81217
+  },
+  {
+    "cards": "366A3",
+    "bid": 818,
+    "type": 21,
+    "rank": 336,
+    "winning": 274848
+  },
+  {
+    "cards": "355QQ",
+    "bid": 142,
+    "type": 21,
+    "rank": 335,
+    "winning": 47570
+  },
+  {
+    "cards": "33AAT",
+    "bid": 904,
+    "type": 21,
+    "rank": 334,
+    "winning": 301936
+  },
+  {
+    "cards": "33AA8",
+    "bid": 570,
+    "type": 21,
+    "rank": 333,
+    "winning": 189810
+  },
+  {
+    "cards": "33AA6",
+    "bid": 116,
+    "type": 21,
+    "rank": 332,
+    "winning": 38512
+  },
+  {
+    "cards": "33A9A",
+    "bid": 668,
+    "type": 21,
+    "rank": 331,
+    "winning": 221108
+  },
+  {
+    "cards": "33929",
+    "bid": 881,
+    "type": 21,
+    "rank": 330,
+    "winning": 290730
+  },
+  {
+    "cards": "33262",
+    "bid": 365,
+    "type": 21,
+    "rank": 329,
+    "winning": 120085
+  },
+  {
+    "cards": "32662",
+    "bid": 887,
+    "type": 21,
+    "rank": 328,
+    "winning": 290936
+  },
+  {
+    "cards": "2AA92",
+    "bid": 890,
+    "type": 21,
+    "rank": 327,
+    "winning": 291030
+  },
+  {
+    "cards": "2K25K",
+    "bid": 957,
+    "type": 21,
+    "rank": 326,
+    "winning": 311982
+  },
+  {
+    "cards": "2T4T4",
+    "bid": 803,
+    "type": 21,
+    "rank": 325,
+    "winning": 260975
+  },
+  {
+    "cards": "28866",
+    "bid": 775,
+    "type": 21,
+    "rank": 324,
+    "winning": 251100
+  },
+  {
+    "cards": "28289",
+    "bid": 935,
+    "type": 21,
+    "rank": 323,
+    "winning": 302005
+  },
+  {
+    "cards": "26772",
+    "bid": 972,
+    "type": 21,
+    "rank": 322,
+    "winning": 312984
+  },
+  {
+    "cards": "2626A",
+    "bid": 564,
+    "type": 21,
+    "rank": 321,
+    "winning": 181044
+  },
+  {
+    "cards": "24A4A",
+    "bid": 539,
+    "type": 21,
+    "rank": 320,
+    "winning": 172480
+  },
+  {
+    "cards": "23552",
+    "bid": 253,
+    "type": 21,
+    "rank": 319,
+    "winning": 80707
+  },
+  {
+    "cards": "23288",
+    "bid": 679,
+    "type": 21,
+    "rank": 318,
+    "winning": 215922
+  },
+  {
+    "cards": "2255Q",
+    "bid": 958,
+    "type": 21,
+    "rank": 317,
+    "winning": 303686
+  },
+  {
+    "cards": "224QQ",
+    "bid": 638,
+    "type": 21,
+    "rank": 316,
+    "winning": 201608
+  },
+  {
+    "cards": "223KK",
+    "bid": 261,
+    "type": 21,
+    "rank": 315,
+    "winning": 82215
+  },
+  {
+    "cards": "AA495",
+    "bid": 516,
+    "type": 13,
+    "rank": 314,
+    "winning": 162024
+  },
+  {
+    "cards": "AKA96",
+    "bid": 37,
+    "type": 13,
+    "rank": 313,
+    "winning": 11581
+  },
+  {
+    "cards": "AKK79",
+    "bid": 41,
+    "type": 13,
+    "rank": 312,
+    "winning": 12792
+  },
+  {
+    "cards": "AQ2A6",
+    "bid": 907,
+    "type": 13,
+    "rank": 311,
+    "winning": 282077
+  },
+  {
+    "cards": "AQ24A",
+    "bid": 829,
+    "type": 13,
+    "rank": 310,
+    "winning": 256990
+  },
+  {
+    "cards": "AT3T7",
+    "bid": 506,
+    "type": 13,
+    "rank": 309,
+    "winning": 156354
+  },
+  {
+    "cards": "A92TA",
+    "bid": 672,
+    "type": 13,
+    "rank": 308,
+    "winning": 206976
+  },
+  {
+    "cards": "A899T",
+    "bid": 302,
+    "type": 13,
+    "rank": 307,
+    "winning": 92714
+  },
+  {
+    "cards": "A66Q8",
+    "bid": 390,
+    "type": 13,
+    "rank": 306,
+    "winning": 119340
+  },
+  {
+    "cards": "A6292",
+    "bid": 213,
+    "type": 13,
+    "rank": 305,
+    "winning": 64965
+  },
+  {
+    "cards": "A5929",
+    "bid": 861,
+    "type": 13,
+    "rank": 304,
+    "winning": 261744
+  },
+  {
+    "cards": "A5576",
+    "bid": 999,
+    "type": 13,
+    "rank": 303,
+    "winning": 302697
+  },
+  {
+    "cards": "A3583",
+    "bid": 992,
+    "type": 13,
+    "rank": 302,
+    "winning": 299584
+  },
+  {
+    "cards": "A32J9",
+    "bid": 841,
+    "type": 13,
+    "rank": 301,
+    "winning": 253141
+  },
+  {
+    "cards": "A2887",
+    "bid": 617,
+    "type": 13,
+    "rank": 300,
+    "winning": 185100
+  },
+  {
+    "cards": "AJ924",
+    "bid": 118,
+    "type": 13,
+    "rank": 299,
+    "winning": 35282
+  },
+  {
+    "cards": "KA464",
+    "bid": 582,
+    "type": 13,
+    "rank": 298,
+    "winning": 173436
+  },
+  {
+    "cards": "KKA39",
+    "bid": 225,
+    "type": 13,
+    "rank": 297,
+    "winning": 66825
+  },
+  {
+    "cards": "KQ8A8",
+    "bid": 440,
+    "type": 13,
+    "rank": 296,
+    "winning": 130240
+  },
+  {
+    "cards": "KQ78J",
+    "bid": 296,
+    "type": 13,
+    "rank": 295,
+    "winning": 87320
+  },
+  {
+    "cards": "KQ622",
+    "bid": 375,
+    "type": 13,
+    "rank": 294,
+    "winning": 110250
+  },
+  {
+    "cards": "KQ3K8",
+    "bid": 318,
+    "type": 13,
+    "rank": 293,
+    "winning": 93174
+  },
+  {
+    "cards": "K8T82",
+    "bid": 994,
+    "type": 13,
+    "rank": 292,
+    "winning": 290248
+  },
+  {
+    "cards": "K8J75",
+    "bid": 637,
+    "type": 13,
+    "rank": 291,
+    "winning": 185367
+  },
+  {
+    "cards": "K779A",
+    "bid": 848,
+    "type": 13,
+    "rank": 290,
+    "winning": 245920
+  },
+  {
+    "cards": "K7748",
+    "bid": 100,
+    "type": 13,
+    "rank": 289,
+    "winning": 28900
+  },
+  {
+    "cards": "K7J96",
+    "bid": 480,
+    "type": 13,
+    "rank": 288,
+    "winning": 138240
+  },
+  {
+    "cards": "K6J3T",
+    "bid": 709,
+    "type": 13,
+    "rank": 287,
+    "winning": 203483
+  },
+  {
+    "cards": "K5AK3",
+    "bid": 648,
+    "type": 13,
+    "rank": 286,
+    "winning": 185328
+  },
+  {
+    "cards": "K4QQ7",
+    "bid": 968,
+    "type": 13,
+    "rank": 285,
+    "winning": 275880
+  },
+  {
+    "cards": "K48AK",
+    "bid": 835,
+    "type": 13,
+    "rank": 284,
+    "winning": 237140
+  },
+  {
+    "cards": "K2A77",
+    "bid": 728,
+    "type": 13,
+    "rank": 283,
+    "winning": 206024
+  },
+  {
+    "cards": "QK933",
+    "bid": 956,
+    "type": 13,
+    "rank": 282,
+    "winning": 269592
+  },
+  {
+    "cards": "QT979",
+    "bid": 185,
+    "type": 13,
+    "rank": 281,
+    "winning": 51985
+  },
+  {
+    "cards": "QT5J9",
+    "bid": 350,
+    "type": 13,
+    "rank": 280,
+    "winning": 98000
+  },
+  {
+    "cards": "QTJ24",
+    "bid": 832,
+    "type": 13,
+    "rank": 279,
+    "winning": 232128
+  },
+  {
+    "cards": "Q8835",
+    "bid": 742,
+    "type": 13,
+    "rank": 278,
+    "winning": 206276
+  },
+  {
+    "cards": "Q84AJ",
+    "bid": 783,
+    "type": 13,
+    "rank": 277,
+    "winning": 216891
+  },
+  {
+    "cards": "Q8292",
+    "bid": 19,
+    "type": 13,
+    "rank": 276,
+    "winning": 5244
+  },
+  {
+    "cards": "Q6976",
+    "bid": 688,
+    "type": 13,
+    "rank": 275,
+    "winning": 189200
+  },
+  {
+    "cards": "Q6447",
+    "bid": 696,
+    "type": 13,
+    "rank": 274,
+    "winning": 190704
+  },
+  {
+    "cards": "Q589J",
+    "bid": 891,
+    "type": 13,
+    "rank": 273,
+    "winning": 243243
+  },
+  {
+    "cards": "Q48J7",
+    "bid": 54,
+    "type": 13,
+    "rank": 272,
+    "winning": 14688
+  },
+  {
+    "cards": "Q245J",
+    "bid": 574,
+    "type": 13,
+    "rank": 271,
+    "winning": 155554
+  },
+  {
+    "cards": "Q2366",
+    "bid": 703,
+    "type": 13,
+    "rank": 270,
+    "winning": 189810
+  },
+  {
+    "cards": "QJA4K",
+    "bid": 809,
+    "type": 13,
+    "rank": 269,
+    "winning": 217621
+  },
+  {
+    "cards": "QJ4K8",
+    "bid": 425,
+    "type": 13,
+    "rank": 268,
+    "winning": 113900
+  },
+  {
+    "cards": "TK9A9",
+    "bid": 484,
+    "type": 13,
+    "rank": 267,
+    "winning": 129228
+  },
+  {
+    "cards": "TK99Q",
+    "bid": 644,
+    "type": 13,
+    "rank": 266,
+    "winning": 171304
+  },
+  {
+    "cards": "TT82Q",
+    "bid": 463,
+    "type": 13,
+    "rank": 265,
+    "winning": 122695
+  },
+  {
+    "cards": "T9389",
+    "bid": 869,
+    "type": 13,
+    "rank": 264,
+    "winning": 229416
+  },
+  {
+    "cards": "T82J6",
+    "bid": 496,
+    "type": 13,
+    "rank": 263,
+    "winning": 130448
+  },
+  {
+    "cards": "T7242",
+    "bid": 893,
+    "type": 13,
+    "rank": 262,
+    "winning": 233966
+  },
+  {
+    "cards": "T58AA",
+    "bid": 566,
+    "type": 13,
+    "rank": 261,
+    "winning": 147726
+  },
+  {
+    "cards": "T4TA6",
+    "bid": 228,
+    "type": 13,
+    "rank": 260,
+    "winning": 59280
+  },
+  {
+    "cards": "T46KK",
+    "bid": 551,
+    "type": 13,
+    "rank": 259,
+    "winning": 142709
+  },
+  {
+    "cards": "T46KT",
+    "bid": 313,
+    "type": 13,
+    "rank": 258,
+    "winning": 80754
+  },
+  {
+    "cards": "T253J",
+    "bid": 576,
+    "type": 13,
+    "rank": 257,
+    "winning": 148032
+  },
+  {
+    "cards": "TJA43",
+    "bid": 858,
+    "type": 13,
+    "rank": 256,
+    "winning": 219648
+  },
+  {
+    "cards": "TJ52K",
+    "bid": 214,
+    "type": 13,
+    "rank": 255,
+    "winning": 54570
+  },
+  {
+    "cards": "9ATA8",
+    "bid": 614,
+    "type": 13,
+    "rank": 254,
+    "winning": 155956
+  },
+  {
+    "cards": "9AT97",
+    "bid": 175,
+    "type": 13,
+    "rank": 253,
+    "winning": 44275
+  },
+  {
+    "cards": "9A9Q7",
+    "bid": 376,
+    "type": 13,
+    "rank": 252,
+    "winning": 94752
+  },
+  {
+    "cards": "9A58A",
+    "bid": 452,
+    "type": 13,
+    "rank": 251,
+    "winning": 113452
+  },
+  {
+    "cards": "9KK37",
+    "bid": 126,
+    "type": 13,
+    "rank": 250,
+    "winning": 31500
+  },
+  {
+    "cards": "9T8TK",
+    "bid": 909,
+    "type": 13,
+    "rank": 249,
+    "winning": 226341
+  },
+  {
+    "cards": "9T794",
+    "bid": 423,
+    "type": 13,
+    "rank": 248,
+    "winning": 104904
+  },
+  {
+    "cards": "99Q38",
+    "bid": 653,
+    "type": 13,
+    "rank": 247,
+    "winning": 161291
+  },
+  {
+    "cards": "98T68",
+    "bid": 208,
+    "type": 13,
+    "rank": 246,
+    "winning": 51168
+  },
+  {
+    "cards": "986JQ",
+    "bid": 113,
+    "type": 13,
+    "rank": 245,
+    "winning": 27685
+  },
+  {
+    "cards": "97K57",
+    "bid": 408,
+    "type": 13,
+    "rank": 244,
+    "winning": 99552
+  },
+  {
+    "cards": "95Q6J",
+    "bid": 807,
+    "type": 13,
+    "rank": 243,
+    "winning": 196101
+  },
+  {
+    "cards": "959A6",
+    "bid": 1000,
+    "type": 13,
+    "rank": 242,
+    "winning": 242000
+  },
+  {
+    "cards": "93Q9K",
+    "bid": 828,
+    "type": 13,
+    "rank": 241,
+    "winning": 199548
+  },
+  {
+    "cards": "9392Q",
+    "bid": 697,
+    "type": 13,
+    "rank": 240,
+    "winning": 167280
+  },
+  {
+    "cards": "92A9K",
+    "bid": 982,
+    "type": 13,
+    "rank": 239,
+    "winning": 234698
+  },
+  {
+    "cards": "923KK",
+    "bid": 57,
+    "type": 13,
+    "rank": 238,
+    "winning": 13566
+  },
+  {
+    "cards": "92J8Q",
+    "bid": 837,
+    "type": 13,
+    "rank": 237,
+    "winning": 198369
+  },
+  {
+    "cards": "9JT68",
+    "bid": 760,
+    "type": 13,
+    "rank": 236,
+    "winning": 179360
+  },
+  {
+    "cards": "9J327",
+    "bid": 950,
+    "type": 13,
+    "rank": 235,
+    "winning": 223250
+  },
+  {
+    "cards": "8AA2K",
+    "bid": 906,
+    "type": 13,
+    "rank": 234,
+    "winning": 212004
+  },
+  {
+    "cards": "89KK2",
+    "bid": 269,
+    "type": 13,
+    "rank": 233,
+    "winning": 62677
+  },
+  {
+    "cards": "89TT3",
+    "bid": 10,
+    "type": 13,
+    "rank": 232,
+    "winning": 2320
+  },
+  {
+    "cards": "8987T",
+    "bid": 908,
+    "type": 13,
+    "rank": 231,
+    "winning": 209748
+  },
+  {
+    "cards": "89233",
+    "bid": 991,
+    "type": 13,
+    "rank": 230,
+    "winning": 227930
+  },
+  {
+    "cards": "883A4",
+    "bid": 486,
+    "type": 13,
+    "rank": 229,
+    "winning": 111294
+  },
+  {
+    "cards": "8798A",
+    "bid": 159,
+    "type": 13,
+    "rank": 228,
+    "winning": 36252
+  },
+  {
+    "cards": "87J43",
+    "bid": 491,
+    "type": 13,
+    "rank": 227,
+    "winning": 111457
+  },
+  {
+    "cards": "86JQ5",
+    "bid": 443,
+    "type": 13,
+    "rank": 226,
+    "winning": 100118
+  },
+  {
+    "cards": "85644",
+    "bid": 355,
+    "type": 13,
+    "rank": 225,
+    "winning": 79875
+  },
+  {
+    "cards": "84K3K",
+    "bid": 187,
+    "type": 13,
+    "rank": 224,
+    "winning": 41888
+  },
+  {
+    "cards": "833A9",
+    "bid": 357,
+    "type": 13,
+    "rank": 223,
+    "winning": 79611
+  },
+  {
+    "cards": "82Q4J",
+    "bid": 432,
+    "type": 13,
+    "rank": 222,
+    "winning": 95904
+  },
+  {
+    "cards": "825KJ",
+    "bid": 364,
+    "type": 13,
+    "rank": 221,
+    "winning": 80444
+  },
+  {
+    "cards": "824T4",
+    "bid": 289,
+    "type": 13,
+    "rank": 220,
+    "winning": 63580
+  },
+  {
+    "cards": "7A975",
+    "bid": 971,
+    "type": 13,
+    "rank": 219,
+    "winning": 212649
+  },
+  {
+    "cards": "7A66K",
+    "bid": 195,
+    "type": 13,
+    "rank": 218,
+    "winning": 42510
+  },
+  {
+    "cards": "7QQ9T",
+    "bid": 962,
+    "type": 13,
+    "rank": 217,
+    "winning": 208754
+  },
+  {
+    "cards": "7Q58Q",
+    "bid": 411,
+    "type": 13,
+    "rank": 216,
+    "winning": 88776
+  },
+  {
+    "cards": "79T22",
+    "bid": 61,
+    "type": 13,
+    "rank": 215,
+    "winning": 13115
+  },
+  {
+    "cards": "79JQ4",
+    "bid": 219,
+    "type": 13,
+    "rank": 214,
+    "winning": 46866
+  },
+  {
+    "cards": "79J5T",
+    "bid": 487,
+    "type": 13,
+    "rank": 213,
+    "winning": 103731
+  },
+  {
+    "cards": "79J54",
+    "bid": 270,
+    "type": 13,
+    "rank": 212,
+    "winning": 57240
+  },
+  {
+    "cards": "78J69",
+    "bid": 133,
+    "type": 13,
+    "rank": 211,
+    "winning": 28063
+  },
+  {
+    "cards": "76T64",
+    "bid": 254,
+    "type": 13,
+    "rank": 210,
+    "winning": 53340
+  },
+  {
+    "cards": "75JA2",
+    "bid": 467,
+    "type": 13,
+    "rank": 209,
+    "winning": 97603
+  },
+  {
+    "cards": "745Q7",
+    "bid": 585,
+    "type": 13,
+    "rank": 208,
+    "winning": 121680
+  },
+  {
+    "cards": "74397",
+    "bid": 448,
+    "type": 13,
+    "rank": 207,
+    "winning": 92736
+  },
+  {
+    "cards": "73798",
+    "bid": 864,
+    "type": 13,
+    "rank": 206,
+    "winning": 177984
+  },
+  {
+    "cards": "73JA5",
+    "bid": 164,
+    "type": 13,
+    "rank": 205,
+    "winning": 33620
+  },
+  {
+    "cards": "73J94",
+    "bid": 157,
+    "type": 13,
+    "rank": 204,
+    "winning": 32028
+  },
+  {
+    "cards": "72454",
+    "bid": 450,
+    "type": 13,
+    "rank": 203,
+    "winning": 91350
+  },
+  {
+    "cards": "7JA62",
+    "bid": 680,
+    "type": 13,
+    "rank": 202,
+    "winning": 137360
+  },
+  {
+    "cards": "7J692",
+    "bid": 542,
+    "type": 13,
+    "rank": 201,
+    "winning": 108942
+  },
+  {
+    "cards": "7J32K",
+    "bid": 404,
+    "type": 13,
+    "rank": 200,
+    "winning": 80800
+  },
+  {
+    "cards": "6A833",
+    "bid": 821,
+    "type": 13,
+    "rank": 199,
+    "winning": 163379
+  },
+  {
+    "cards": "6A2KA",
+    "bid": 647,
+    "type": 13,
+    "rank": 198,
+    "winning": 128106
+  },
+  {
+    "cards": "6K246",
+    "bid": 312,
+    "type": 13,
+    "rank": 197,
+    "winning": 61464
+  },
+  {
+    "cards": "6QQT2",
+    "bid": 145,
+    "type": 13,
+    "rank": 196,
+    "winning": 28420
+  },
+  {
+    "cards": "6T9KT",
+    "bid": 421,
+    "type": 13,
+    "rank": 195,
+    "winning": 82095
+  },
+  {
+    "cards": "698JA",
+    "bid": 148,
+    "type": 13,
+    "rank": 194,
+    "winning": 28712
+  },
+  {
+    "cards": "6963T",
+    "bid": 31,
+    "type": 13,
+    "rank": 193,
+    "winning": 5983
+  },
+  {
+    "cards": "694J8",
+    "bid": 95,
+    "type": 13,
+    "rank": 192,
+    "winning": 18240
+  },
+  {
+    "cards": "6877Q",
+    "bid": 816,
+    "type": 13,
+    "rank": 191,
+    "winning": 155856
+  },
+  {
+    "cards": "6569A",
+    "bid": 203,
+    "type": 13,
+    "rank": 190,
+    "winning": 38570
+  },
+  {
+    "cards": "64Q43",
+    "bid": 822,
+    "type": 13,
+    "rank": 189,
+    "winning": 155358
+  },
+  {
+    "cards": "6488K",
+    "bid": 495,
+    "type": 13,
+    "rank": 188,
+    "winning": 93060
+  },
+  {
+    "cards": "64882",
+    "bid": 944,
+    "type": 13,
+    "rank": 187,
+    "winning": 176528
+  },
+  {
+    "cards": "5A3JK",
+    "bid": 65,
+    "type": 13,
+    "rank": 186,
+    "winning": 12090
+  },
+  {
+    "cards": "5K357",
+    "bid": 635,
+    "type": 13,
+    "rank": 185,
+    "winning": 117475
+  },
+  {
+    "cards": "5QJ76",
+    "bid": 664,
+    "type": 13,
+    "rank": 184,
+    "winning": 122176
+  },
+  {
+    "cards": "5T593",
+    "bid": 101,
+    "type": 13,
+    "rank": 183,
+    "winning": 18483
+  },
+  {
+    "cards": "5T393",
+    "bid": 967,
+    "type": 13,
+    "rank": 182,
+    "winning": 175994
+  },
+  {
+    "cards": "59J64",
+    "bid": 170,
+    "type": 13,
+    "rank": 181,
+    "winning": 30770
+  },
+  {
+    "cards": "57T67",
+    "bid": 845,
+    "type": 13,
+    "rank": 180,
+    "winning": 152100
+  },
+  {
+    "cards": "57385",
+    "bid": 102,
+    "type": 13,
+    "rank": 179,
+    "winning": 18258
+  },
+  {
+    "cards": "56542",
+    "bid": 359,
+    "type": 13,
+    "rank": 178,
+    "winning": 63902
+  },
+  {
+    "cards": "5549T",
+    "bid": 863,
+    "type": 13,
+    "rank": 177,
+    "winning": 152751
+  },
+  {
+    "cards": "55296",
+    "bid": 651,
+    "type": 13,
+    "rank": 176,
+    "winning": 114576
+  },
+  {
+    "cards": "54778",
+    "bid": 769,
+    "type": 13,
+    "rank": 175,
+    "winning": 134575
+  },
+  {
+    "cards": "54772",
+    "bid": 315,
+    "type": 13,
+    "rank": 174,
+    "winning": 54810
+  },
+  {
+    "cards": "54J89",
+    "bid": 866,
+    "type": 13,
+    "rank": 173,
+    "winning": 149818
+  },
+  {
+    "cards": "5228Q",
+    "bid": 252,
+    "type": 13,
+    "rank": 172,
+    "winning": 43344
+  },
+  {
+    "cards": "4AQQK",
+    "bid": 608,
+    "type": 13,
+    "rank": 171,
+    "winning": 103968
+  },
+  {
+    "cards": "4AJ27",
+    "bid": 914,
+    "type": 13,
+    "rank": 170,
+    "winning": 155380
+  },
+  {
+    "cards": "4KT94",
+    "bid": 702,
+    "type": 13,
+    "rank": 169,
+    "winning": 118638
+  },
+  {
+    "cards": "4KTJQ",
+    "bid": 256,
+    "type": 13,
+    "rank": 168,
+    "winning": 43008
+  },
+  {
+    "cards": "4QAA3",
+    "bid": 505,
+    "type": 13,
+    "rank": 167,
+    "winning": 84335
+  },
+  {
+    "cards": "4TAJ5",
+    "bid": 744,
+    "type": 13,
+    "rank": 166,
+    "winning": 123504
+  },
+  {
+    "cards": "49878",
+    "bid": 472,
+    "type": 13,
+    "rank": 165,
+    "winning": 77880
+  },
+  {
+    "cards": "4939K",
+    "bid": 535,
+    "type": 13,
+    "rank": 164,
+    "winning": 87740
+  },
+  {
+    "cards": "48AJK",
+    "bid": 476,
+    "type": 13,
+    "rank": 163,
+    "winning": 77588
+  },
+  {
+    "cards": "48KJ7",
+    "bid": 501,
+    "type": 13,
+    "rank": 162,
+    "winning": 81162
+  },
+  {
+    "cards": "486Q4",
+    "bid": 21,
+    "type": 13,
+    "rank": 161,
+    "winning": 3381
+  },
+  {
+    "cards": "485A5",
+    "bid": 52,
+    "type": 13,
+    "rank": 160,
+    "winning": 8320
+  },
+  {
+    "cards": "46995",
+    "bid": 166,
+    "type": 13,
+    "rank": 159,
+    "winning": 26394
+  },
+  {
+    "cards": "468AA",
+    "bid": 526,
+    "type": 13,
+    "rank": 158,
+    "winning": 83108
+  },
+  {
+    "cards": "46JTK",
+    "bid": 901,
+    "type": 13,
+    "rank": 157,
+    "winning": 141457
+  },
+  {
+    "cards": "45JTQ",
+    "bid": 594,
+    "type": 13,
+    "rank": 156,
+    "winning": 92664
+  },
+  {
+    "cards": "43525",
+    "bid": 875,
+    "type": 13,
+    "rank": 155,
+    "winning": 135625
+  },
+  {
+    "cards": "42A2Q",
+    "bid": 860,
+    "type": 13,
+    "rank": 154,
+    "winning": 132440
+  },
+  {
+    "cards": "428K2",
+    "bid": 785,
+    "type": 13,
+    "rank": 153,
+    "winning": 120105
+  },
+  {
+    "cards": "4J875",
+    "bid": 183,
+    "type": 13,
+    "rank": 152,
+    "winning": 27816
+  },
+  {
+    "cards": "4J3KQ",
+    "bid": 784,
+    "type": 13,
+    "rank": 151,
+    "winning": 118384
+  },
+  {
+    "cards": "3A2A5",
+    "bid": 550,
+    "type": 13,
+    "rank": 150,
+    "winning": 82500
+  },
+  {
+    "cards": "3K5A3",
+    "bid": 428,
+    "type": 13,
+    "rank": 149,
+    "winning": 63772
+  },
+  {
+    "cards": "3K25K",
+    "bid": 250,
+    "type": 13,
+    "rank": 148,
+    "winning": 37000
+  },
+  {
+    "cards": "3KJ98",
+    "bid": 536,
+    "type": 13,
+    "rank": 147,
+    "winning": 78792
+  },
+  {
+    "cards": "3TQ35",
+    "bid": 160,
+    "type": 13,
+    "rank": 146,
+    "winning": 23360
+  },
+  {
+    "cards": "3T8J4",
+    "bid": 948,
+    "type": 13,
+    "rank": 145,
+    "winning": 137460
+  },
+  {
+    "cards": "393Q6",
+    "bid": 805,
+    "type": 13,
+    "rank": 144,
+    "winning": 115920
+  },
+  {
+    "cards": "39JQ7",
+    "bid": 247,
+    "type": 13,
+    "rank": 143,
+    "winning": 35321
+  },
+  {
+    "cards": "38Q4J",
+    "bid": 297,
+    "type": 13,
+    "rank": 142,
+    "winning": 42174
+  },
+  {
+    "cards": "3864J",
+    "bid": 529,
+    "type": 13,
+    "rank": 141,
+    "winning": 74589
+  },
+  {
+    "cards": "382J9",
+    "bid": 127,
+    "type": 13,
+    "rank": 140,
+    "winning": 17780
+  },
+  {
+    "cards": "37389",
+    "bid": 633,
+    "type": 13,
+    "rank": 139,
+    "winning": 87987
+  },
+  {
+    "cards": "36A2A",
+    "bid": 5,
+    "type": 13,
+    "rank": 138,
+    "winning": 690
+  },
+  {
+    "cards": "36Q6T",
+    "bid": 167,
+    "type": 13,
+    "rank": 137,
+    "winning": 22879
+  },
+  {
+    "cards": "35A93",
+    "bid": 137,
+    "type": 13,
+    "rank": 136,
+    "winning": 18632
+  },
+  {
+    "cards": "34QKK",
+    "bid": 924,
+    "type": 13,
+    "rank": 135,
+    "winning": 124740
+  },
+  {
+    "cards": "34T5J",
+    "bid": 766,
+    "type": 13,
+    "rank": 134,
+    "winning": 102644
+  },
+  {
+    "cards": "33759",
+    "bid": 530,
+    "type": 13,
+    "rank": 133,
+    "winning": 70490
+  },
+  {
+    "cards": "332K6",
+    "bid": 698,
+    "type": 13,
+    "rank": 132,
+    "winning": 92136
+  },
+  {
+    "cards": "32726",
+    "bid": 377,
+    "type": 13,
+    "rank": 131,
+    "winning": 49387
+  },
+  {
+    "cards": "3J76K",
+    "bid": 559,
+    "type": 13,
+    "rank": 130,
+    "winning": 72670
+  },
+  {
+    "cards": "3J769",
+    "bid": 743,
+    "type": 13,
+    "rank": 129,
+    "winning": 95847
+  },
+  {
+    "cards": "2AKJ3",
+    "bid": 500,
+    "type": 13,
+    "rank": 128,
+    "winning": 64000
+  },
+  {
+    "cards": "2A68J",
+    "bid": 227,
+    "type": 13,
+    "rank": 127,
+    "winning": 28829
+  },
+  {
+    "cards": "2AJKQ",
+    "bid": 952,
+    "type": 13,
+    "rank": 126,
+    "winning": 119952
+  },
+  {
+    "cards": "2K788",
+    "bid": 380,
+    "type": 13,
+    "rank": 125,
+    "winning": 47500
+  },
+  {
+    "cards": "2QTJK",
+    "bid": 976,
+    "type": 13,
+    "rank": 124,
+    "winning": 121024
+  },
+  {
+    "cards": "2TJ87",
+    "bid": 572,
+    "type": 13,
+    "rank": 123,
+    "winning": 70356
+  },
+  {
+    "cards": "298TT",
+    "bid": 621,
+    "type": 13,
+    "rank": 122,
+    "winning": 75762
+  },
+  {
+    "cards": "27338",
+    "bid": 239,
+    "type": 13,
+    "rank": 121,
+    "winning": 28919
+  },
+  {
+    "cards": "252T8",
+    "bid": 726,
+    "type": 13,
+    "rank": 120,
+    "winning": 87120
+  },
+  {
+    "cards": "245J3",
+    "bid": 86,
+    "type": 13,
+    "rank": 119,
+    "winning": 10234
+  },
+  {
+    "cards": "23QA3",
+    "bid": 197,
+    "type": 13,
+    "rank": 118,
+    "winning": 23246
+  },
+  {
+    "cards": "23Q2A",
+    "bid": 685,
+    "type": 13,
+    "rank": 117,
+    "winning": 80145
+  },
+  {
+    "cards": "22K56",
+    "bid": 781,
+    "type": 13,
+    "rank": 116,
+    "winning": 90596
+  },
+  {
+    "cards": "22Q84",
+    "bid": 373,
+    "type": 13,
+    "rank": 115,
+    "winning": 42895
+  },
+  {
+    "cards": "2J89K",
+    "bid": 897,
+    "type": 13,
+    "rank": 114,
+    "winning": 102258
+  },
+  {
+    "cards": "2J789",
+    "bid": 877,
+    "type": 13,
+    "rank": 113,
+    "winning": 99101
+  },
+  {
+    "cards": "JK4T3",
+    "bid": 117,
+    "type": 13,
+    "rank": 112,
+    "winning": 13104
+  },
+  {
+    "cards": "JT89Q",
+    "bid": 45,
+    "type": 13,
+    "rank": 111,
+    "winning": 4995
+  },
+  {
+    "cards": "JT83K",
+    "bid": 391,
+    "type": 13,
+    "rank": 110,
+    "winning": 43010
+  },
+  {
+    "cards": "JT752",
+    "bid": 454,
+    "type": 13,
+    "rank": 109,
+    "winning": 49486
+  },
+  {
+    "cards": "J9Q8K",
+    "bid": 334,
+    "type": 13,
+    "rank": 108,
+    "winning": 36072
+  },
+  {
+    "cards": "J4563",
+    "bid": 922,
+    "type": 13,
+    "rank": 107,
+    "winning": 98654
+  },
+  {
+    "cards": "J38QK",
+    "bid": 659,
+    "type": 13,
+    "rank": 106,
+    "winning": 69854
+  },
+  {
+    "cards": "ATKQ5",
+    "bid": 746,
+    "type": 5,
+    "rank": 105,
+    "winning": 78330
+  },
+  {
+    "cards": "A9T68",
+    "bid": 232,
+    "type": 5,
+    "rank": 104,
+    "winning": 24128
+  },
+  {
+    "cards": "A958T",
+    "bid": 446,
+    "type": 5,
+    "rank": 103,
+    "winning": 45938
+  },
+  {
+    "cards": "A8739",
+    "bid": 723,
+    "type": 5,
+    "rank": 102,
+    "winning": 73746
+  },
+  {
+    "cards": "A7342",
+    "bid": 514,
+    "type": 5,
+    "rank": 101,
+    "winning": 51914
+  },
+  {
+    "cards": "A4T87",
+    "bid": 267,
+    "type": 5,
+    "rank": 100,
+    "winning": 26700
+  },
+  {
+    "cards": "A3894",
+    "bid": 244,
+    "type": 5,
+    "rank": 99,
+    "winning": 24156
+  },
+  {
+    "cards": "A2KQ7",
+    "bid": 473,
+    "type": 5,
+    "rank": 98,
+    "winning": 46354
+  },
+  {
+    "cards": "KT345",
+    "bid": 382,
+    "type": 5,
+    "rank": 97,
+    "winning": 37054
+  },
+  {
+    "cards": "K9875",
+    "bid": 268,
+    "type": 5,
+    "rank": 96,
+    "winning": 25728
+  },
+  {
+    "cards": "K7682",
+    "bid": 855,
+    "type": 5,
+    "rank": 95,
+    "winning": 81225
+  },
+  {
+    "cards": "K746A",
+    "bid": 399,
+    "type": 5,
+    "rank": 94,
+    "winning": 37506
+  },
+  {
+    "cards": "K59A4",
+    "bid": 349,
+    "type": 5,
+    "rank": 93,
+    "winning": 32457
+  },
+  {
+    "cards": "K4298",
+    "bid": 460,
+    "type": 5,
+    "rank": 92,
+    "winning": 42320
+  },
+  {
+    "cards": "K3596",
+    "bid": 18,
+    "type": 5,
+    "rank": 91,
+    "winning": 1638
+  },
+  {
+    "cards": "K2975",
+    "bid": 198,
+    "type": 5,
+    "rank": 90,
+    "winning": 17820
+  },
+  {
+    "cards": "K2549",
+    "bid": 389,
+    "type": 5,
+    "rank": 89,
+    "winning": 34621
+  },
+  {
+    "cards": "QA256",
+    "bid": 284,
+    "type": 5,
+    "rank": 88,
+    "winning": 24992
+  },
+  {
+    "cards": "Q8K54",
+    "bid": 470,
+    "type": 5,
+    "rank": 87,
+    "winning": 40890
+  },
+  {
+    "cards": "Q8745",
+    "bid": 632,
+    "type": 5,
+    "rank": 86,
+    "winning": 54352
+  },
+  {
+    "cards": "Q6A74",
+    "bid": 654,
+    "type": 5,
+    "rank": 85,
+    "winning": 55590
+  },
+  {
+    "cards": "Q5497",
+    "bid": 32,
+    "type": 5,
+    "rank": 84,
+    "winning": 2688
+  },
+  {
+    "cards": "Q5394",
+    "bid": 12,
+    "type": 5,
+    "rank": 83,
+    "winning": 996
+  },
+  {
+    "cards": "Q3K94",
+    "bid": 276,
+    "type": 5,
+    "rank": 82,
+    "winning": 22632
+  },
+  {
+    "cards": "Q2K47",
+    "bid": 549,
+    "type": 5,
+    "rank": 81,
+    "winning": 44469
+  },
+  {
+    "cards": "TQK26",
+    "bid": 88,
+    "type": 5,
+    "rank": 80,
+    "winning": 7040
+  },
+  {
+    "cards": "TQ953",
+    "bid": 82,
+    "type": 5,
+    "rank": 79,
+    "winning": 6478
+  },
+  {
+    "cards": "TQ428",
+    "bid": 449,
+    "type": 5,
+    "rank": 78,
+    "winning": 35022
+  },
+  {
+    "cards": "TQ2KA",
+    "bid": 554,
+    "type": 5,
+    "rank": 77,
+    "winning": 42658
+  },
+  {
+    "cards": "T9A37",
+    "bid": 963,
+    "type": 5,
+    "rank": 76,
+    "winning": 73188
+  },
+  {
+    "cards": "T9723",
+    "bid": 229,
+    "type": 5,
+    "rank": 75,
+    "winning": 17175
+  },
+  {
+    "cards": "T8675",
+    "bid": 344,
+    "type": 5,
+    "rank": 74,
+    "winning": 25456
+  },
+  {
+    "cards": "T74Q2",
+    "bid": 846,
+    "type": 5,
+    "rank": 73,
+    "winning": 61758
+  },
+  {
+    "cards": "T3A5K",
+    "bid": 601,
+    "type": 5,
+    "rank": 72,
+    "winning": 43272
+  },
+  {
+    "cards": "T3769",
+    "bid": 422,
+    "type": 5,
+    "rank": 71,
+    "winning": 29962
+  },
+  {
+    "cards": "9A643",
+    "bid": 223,
+    "type": 5,
+    "rank": 70,
+    "winning": 15610
+  },
+  {
+    "cards": "9KT7Q",
+    "bid": 346,
+    "type": 5,
+    "rank": 69,
+    "winning": 23874
+  },
+  {
+    "cards": "9Q263",
+    "bid": 773,
+    "type": 5,
+    "rank": 68,
+    "winning": 52564
+  },
+  {
+    "cards": "972AT",
+    "bid": 710,
+    "type": 5,
+    "rank": 67,
+    "winning": 47570
+  },
+  {
+    "cards": "96TK3",
+    "bid": 161,
+    "type": 5,
+    "rank": 66,
+    "winning": 10626
+  },
+  {
+    "cards": "93T52",
+    "bid": 780,
+    "type": 5,
+    "rank": 65,
+    "winning": 50700
+  },
+  {
+    "cards": "92A83",
+    "bid": 871,
+    "type": 5,
+    "rank": 64,
+    "winning": 55744
+  },
+  {
+    "cards": "92T47",
+    "bid": 68,
+    "type": 5,
+    "rank": 63,
+    "winning": 4284
+  },
+  {
+    "cards": "8K694",
+    "bid": 826,
+    "type": 5,
+    "rank": 62,
+    "winning": 51212
+  },
+  {
+    "cards": "8K49T",
+    "bid": 222,
+    "type": 5,
+    "rank": 61,
+    "winning": 13542
+  },
+  {
+    "cards": "8T3QK",
+    "bid": 233,
+    "type": 5,
+    "rank": 60,
+    "winning": 13980
+  },
+  {
+    "cards": "8947T",
+    "bid": 546,
+    "type": 5,
+    "rank": 59,
+    "winning": 32214
+  },
+  {
+    "cards": "8937Q",
+    "bid": 926,
+    "type": 5,
+    "rank": 58,
+    "winning": 53708
+  },
+  {
+    "cards": "873AK",
+    "bid": 518,
+    "type": 5,
+    "rank": 57,
+    "winning": 29526
+  },
+  {
+    "cards": "85T34",
+    "bid": 836,
+    "type": 5,
+    "rank": 56,
+    "winning": 46816
+  },
+  {
+    "cards": "83A5K",
+    "bid": 131,
+    "type": 5,
+    "rank": 55,
+    "winning": 7205
+  },
+  {
+    "cards": "83Q94",
+    "bid": 946,
+    "type": 5,
+    "rank": 54,
+    "winning": 51084
+  },
+  {
+    "cards": "7T584",
+    "bid": 820,
+    "type": 5,
+    "rank": 53,
+    "winning": 43460
+  },
+  {
+    "cards": "74K82",
+    "bid": 729,
+    "type": 5,
+    "rank": 52,
+    "winning": 37908
+  },
+  {
+    "cards": "74Q6K",
+    "bid": 72,
+    "type": 5,
+    "rank": 51,
+    "winning": 3672
+  },
+  {
+    "cards": "7463T",
+    "bid": 933,
+    "type": 5,
+    "rank": 50,
+    "winning": 46650
+  },
+  {
+    "cards": "6A985",
+    "bid": 547,
+    "type": 5,
+    "rank": 49,
+    "winning": 26803
+  },
+  {
+    "cards": "6K3AT",
+    "bid": 7,
+    "type": 5,
+    "rank": 48,
+    "winning": 336
+  },
+  {
+    "cards": "683K2",
+    "bid": 35,
+    "type": 5,
+    "rank": 47,
+    "winning": 1645
+  },
+  {
+    "cards": "67T94",
+    "bid": 755,
+    "type": 5,
+    "rank": 46,
+    "winning": 34730
+  },
+  {
+    "cards": "674Q5",
+    "bid": 465,
+    "type": 5,
+    "rank": 45,
+    "winning": 20925
+  },
+  {
+    "cards": "6584Q",
+    "bid": 237,
+    "type": 5,
+    "rank": 44,
+    "winning": 10428
+  },
+  {
+    "cards": "64K32",
+    "bid": 169,
+    "type": 5,
+    "rank": 43,
+    "winning": 7267
+  },
+  {
+    "cards": "64729",
+    "bid": 666,
+    "type": 5,
+    "rank": 42,
+    "winning": 27972
+  },
+  {
+    "cards": "64287",
+    "bid": 307,
+    "type": 5,
+    "rank": 41,
+    "winning": 12587
+  },
+  {
+    "cards": "63T9A",
+    "bid": 905,
+    "type": 5,
+    "rank": 40,
+    "winning": 36200
+  },
+  {
+    "cards": "5A837",
+    "bid": 279,
+    "type": 5,
+    "rank": 39,
+    "winning": 10881
+  },
+  {
+    "cards": "5Q376",
+    "bid": 748,
+    "type": 5,
+    "rank": 38,
+    "winning": 28424
+  },
+  {
+    "cards": "5726K",
+    "bid": 437,
+    "type": 5,
+    "rank": 37,
+    "winning": 16169
+  },
+  {
+    "cards": "569Q2",
+    "bid": 943,
+    "type": 5,
+    "rank": 36,
+    "winning": 33948
+  },
+  {
+    "cards": "56349",
+    "bid": 372,
+    "type": 5,
+    "rank": 35,
+    "winning": 13020
+  },
+  {
+    "cards": "54TQ7",
+    "bid": 230,
+    "type": 5,
+    "rank": 34,
+    "winning": 7820
+  },
+  {
+    "cards": "546Q3",
+    "bid": 879,
+    "type": 5,
+    "rank": 33,
+    "winning": 29007
+  },
+  {
+    "cards": "5396T",
+    "bid": 310,
+    "type": 5,
+    "rank": 32,
+    "winning": 9920
+  },
+  {
+    "cards": "53872",
+    "bid": 363,
+    "type": 5,
+    "rank": 31,
+    "winning": 11253
+  },
+  {
+    "cards": "52K63",
+    "bid": 441,
+    "type": 5,
+    "rank": 30,
+    "winning": 13230
+  },
+  {
+    "cards": "52867",
+    "bid": 791,
+    "type": 5,
+    "rank": 29,
+    "winning": 22939
+  },
+  {
+    "cards": "4A6T5",
+    "bid": 896,
+    "type": 5,
+    "rank": 28,
+    "winning": 25088
+  },
+  {
+    "cards": "4T265",
+    "bid": 83,
+    "type": 5,
+    "rank": 27,
+    "winning": 2241
+  },
+  {
+    "cards": "495QK",
+    "bid": 678,
+    "type": 5,
+    "rank": 26,
+    "winning": 17628
+  },
+  {
+    "cards": "46857",
+    "bid": 759,
+    "type": 5,
+    "rank": 25,
+    "winning": 18975
+  },
+  {
+    "cards": "4582A",
+    "bid": 97,
+    "type": 5,
+    "rank": 24,
+    "winning": 2328
+  },
+  {
+    "cards": "43A8T",
+    "bid": 512,
+    "type": 5,
+    "rank": 23,
+    "winning": 11776
+  },
+  {
+    "cards": "4386K",
+    "bid": 338,
+    "type": 5,
+    "rank": 22,
+    "winning": 7436
+  },
+  {
+    "cards": "432KA",
+    "bid": 903,
+    "type": 5,
+    "rank": 21,
+    "winning": 18963
+  },
+  {
+    "cards": "3KQ84",
+    "bid": 33,
+    "type": 5,
+    "rank": 20,
+    "winning": 660
+  },
+  {
+    "cards": "3Q284",
+    "bid": 201,
+    "type": 5,
+    "rank": 19,
+    "winning": 3819
+  },
+  {
+    "cards": "3T7A2",
+    "bid": 444,
+    "type": 5,
+    "rank": 18,
+    "winning": 7992
+  },
+  {
+    "cards": "3T528",
+    "bid": 130,
+    "type": 5,
+    "rank": 17,
+    "winning": 2210
+  },
+  {
+    "cards": "3847K",
+    "bid": 556,
+    "type": 5,
+    "rank": 16,
+    "winning": 8896
+  },
+  {
+    "cards": "36524",
+    "bid": 181,
+    "type": 5,
+    "rank": 15,
+    "winning": 2715
+  },
+  {
+    "cards": "35A2K",
+    "bid": 563,
+    "type": 5,
+    "rank": 14,
+    "winning": 7882
+  },
+  {
+    "cards": "35862",
+    "bid": 629,
+    "type": 5,
+    "rank": 13,
+    "winning": 8177
+  },
+  {
+    "cards": "2AKQ3",
+    "bid": 640,
+    "type": 5,
+    "rank": 12,
+    "winning": 7680
+  },
+  {
+    "cards": "2AT94",
+    "bid": 354,
+    "type": 5,
+    "rank": 11,
+    "winning": 3894
+  },
+  {
+    "cards": "2K9A5",
+    "bid": 639,
+    "type": 5,
+    "rank": 10,
+    "winning": 6390
+  },
+  {
+    "cards": "29A53",
+    "bid": 414,
+    "type": 5,
+    "rank": 9,
+    "winning": 3726
+  },
+  {
+    "cards": "2963K",
+    "bid": 593,
+    "type": 5,
+    "rank": 8,
+    "winning": 4744
+  },
+  {
+    "cards": "28AK6",
+    "bid": 598,
+    "type": 5,
+    "rank": 7,
+    "winning": 4186
+  },
+  {
+    "cards": "28K96",
+    "bid": 260,
+    "type": 5,
+    "rank": 6,
+    "winning": 1560
+  },
+  {
+    "cards": "27K98",
+    "bid": 150,
+    "type": 5,
+    "rank": 5,
+    "winning": 750
+  },
+  {
+    "cards": "274KA",
+    "bid": 407,
+    "type": 5,
+    "rank": 4,
+    "winning": 1628
+  },
+  {
+    "cards": "254K6",
+    "bid": 255,
+    "type": 5,
+    "rank": 3,
+    "winning": 765
+  },
+  {
+    "cards": "246Q7",
+    "bid": 8,
+    "type": 5,
+    "rank": 2,
+    "winning": 16
+  },
+  {
+    "cards": "235QA",
+    "bid": 920,
+    "type": 5,
+    "rank": 1,
+    "winning": 920
+  }
+]
+251481660
+Done in 0.54s.
