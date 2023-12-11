@@ -29,7 +29,9 @@
         "9-1": "node src/challenges/9/part1/solution.js",
         "9-2": "node src/challenges/9/part2/solution.js",
         "10-1": "node src/challenges/10/part1/solution.js",
-        "10-2": "node src/challenges/10/part2/solution.js"
+        "10-2": "node src/challenges/10/part2/solution.js",
+        "11-1": "node src/challenges/11/part1/solution.js",
+        "11-2": "node src/challenges/11/part2/solution.js"
     },
     "devDependencies": {
         "eslint": "^8.55.0",
